@@ -1,0 +1,2359 @@
+8:24:58 PM Opening 'http://www.yellowpages.com/'..............
+8:24:58 PM Application starting.....
+8:24:58 PM Navigating to 'http://www.yellowpages.com/'.....
+8:25:00 PM =========================================================================================
+8:25:00 PM Error (502) - http://www.yellowpages.com/
+8:25:00 PM Unespecified error message.
+8:25:00 PM =========================================================================================
+8:25:00 PM Retrying navegate page 'http://www.yellowpages.com/'
+8:25:08 PM Application ended.
+8:34:55 PM Opening 'http://www.yellowpages.com/'..............
+8:34:55 PM Application starting.....
+8:34:55 PM Navigating to 'http://www.yellowpages.com/'.....
+8:34:56 PM =========================================================================================
+8:34:56 PM Error (-2146697211) - http://www.yellowpages.com/
+8:34:56 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+8:34:56 PM =========================================================================================
+8:34:56 PM Retrying navegate page 'http://www.yellowpages.com/'
+8:35:08 PM Opening 'http://www.yellowpages.com/'..............
+8:35:49 PM =========================================================================================
+8:35:49 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http:///'
+8:35:49 PM =========================================================================================
+8:35:49 PM Opening 'http:///'..............
+8:35:49 PM Blocking url 'http:///'.....
+8:35:57 PM Application ended.
+8:36:21 PM Opening 'http://www.yellowpages.com/'..............
+8:36:21 PM Application starting.....
+8:36:21 PM Navigating to 'http://www.yellowpages.com/'.....
+8:36:24 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:36:24 PM Main page detected.
+8:36:24 PM 
+8:36:24 PM 
+8:36:24 PM  Aplication ready.
+8:36:24 PM 
+8:36:31 PM Application ended.
+8:47:51 PM Opening 'http://www.yellowpages.com/'..............
+8:47:51 PM Application starting.....
+8:47:51 PM Navigating to 'http://www.yellowpages.com/'.....
+8:47:54 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:47:54 PM Main page detected.
+8:47:54 PM 
+8:47:54 PM 
+8:47:54 PM  Aplication ready.
+8:47:54 PM 
+8:48:11 PM Application ended.
+8:48:40 PM Opening 'http://www.yellowpages.com/'..............
+8:48:40 PM Application starting.....
+8:48:40 PM Navigating to 'http://www.yellowpages.com/'.....
+8:48:43 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:48:43 PM Main page detected.
+8:48:43 PM 
+8:48:43 PM 
+8:48:43 PM  Aplication ready.
+8:48:43 PM 
+8:48:59 PM Application ended.
+9:00:46 PM Opening 'http://www.yellowpages.com/'..............
+9:00:46 PM Application starting.....
+9:00:46 PM Navigating to 'http://www.yellowpages.com/'.....
+9:00:58 PM Application ended.
+9:01:17 PM Opening 'http://www.yellowpages.com/'..............
+9:01:17 PM Application starting.....
+9:01:17 PM Navigating to 'http://www.yellowpages.com/'.....
+9:01:50 PM Opening 'http://www.yellowpages.com/'..............
+9:01:50 PM Application starting.....
+9:01:50 PM Navigating to 'http://www.yellowpages.com/'.....
+9:02:11 PM Opening 'http://www.yellowpages.com/'..............
+9:02:11 PM Application starting.....
+9:02:11 PM Navigating to 'http://www.yellowpages.com/'.....
+9:02:12 PM =========================================================================================
+9:02:12 PM Error (-2146697211) - http://www.yellowpages.com/
+9:02:12 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:02:12 PM =========================================================================================
+9:02:12 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:02:24 PM Application ended.
+9:02:57 PM Opening 'http://www.yellowpages.com/'..............
+9:02:57 PM Application starting.....
+9:02:57 PM Navigating to 'http://www.yellowpages.com/'.....
+9:02:58 PM =========================================================================================
+9:02:58 PM Error (-2146697211) - http://www.yellowpages.com/
+9:02:58 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:02:58 PM =========================================================================================
+9:02:58 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:03:16 PM Application ended.
+9:03:21 PM Opening 'http://www.yellowpages.com/'..............
+9:03:21 PM Application starting.....
+9:03:21 PM Navigating to 'http://www.yellowpages.com/'.....
+9:03:22 PM =========================================================================================
+9:03:22 PM Error (-2146697211) - http://www.yellowpages.com/
+9:03:22 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:03:22 PM =========================================================================================
+9:03:22 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:04:00 PM Application ended.
+9:04:10 PM Opening 'http://www.yellowpages.com/'..............
+9:04:10 PM Application starting.....
+9:04:10 PM Navigating to 'http://www.yellowpages.com/'.....
+9:04:11 PM =========================================================================================
+9:04:11 PM Error (-2146697211) - http://www.yellowpages.com/
+9:04:11 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:04:11 PM =========================================================================================
+9:04:11 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:04:15 PM Application ended.
+9:04:37 PM Opening 'http://www.yellowpages.com/'..............
+9:04:37 PM Application starting.....
+9:04:37 PM Navigating to 'http://www.yellowpages.com/'.....
+9:04:38 PM =========================================================================================
+9:04:38 PM Error (-2146697211) - http://www.yellowpages.com/
+9:04:38 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:04:38 PM =========================================================================================
+9:04:38 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:05:13 PM Opening 'http://www.yellowpages.com/'..............
+9:05:13 PM Application ended.
+9:06:29 PM Opening 'http://www.yellowpages.com/'..............
+9:06:29 PM Application starting.....
+9:06:29 PM Navigating to 'http://www.yellowpages.com/'.....
+9:06:30 PM =========================================================================================
+9:06:30 PM Error (-2146697211) - http://www.yellowpages.com/
+9:06:30 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:06:30 PM =========================================================================================
+9:06:30 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:06:50 PM Opening 'http://www.yellowpages.com/'..............
+9:07:38 PM Opening 'http://www.yellowpages.com/'..............
+9:07:38 PM Application starting.....
+9:07:38 PM Navigating to 'http://www.yellowpages.com/'.....
+9:07:39 PM =========================================================================================
+9:07:39 PM Error (-2146697211) - http://www.yellowpages.com/
+9:07:39 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:07:39 PM =========================================================================================
+9:07:39 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:08:06 PM Opening 'http://www.yellowpages.com/'..............
+9:08:22 PM Application ended.
+9:09:07 PM Opening 'http://www.yellowpages.com/'..............
+9:09:07 PM Application starting.....
+9:09:07 PM Navigating to 'http://www.yellowpages.com/'.....
+9:09:08 PM =========================================================================================
+9:09:08 PM Error (-2146697211) - http://www.yellowpages.com/
+9:09:08 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:09:08 PM =========================================================================================
+9:09:08 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:09:17 PM Application ended.
+9:09:37 PM Opening 'http://www.yellowpages.com/'..............
+9:09:37 PM Application starting.....
+9:09:37 PM Navigating to 'http://www.yellowpages.com/'.....
+9:09:39 PM =========================================================================================
+9:09:39 PM Error (-2146697211) - http://www.yellowpages.com/
+9:09:39 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:09:39 PM =========================================================================================
+9:09:39 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:09:43 PM Application ended.
+9:10:32 PM Opening 'http://www.yellowpages.com/'..............
+9:10:32 PM Application starting.....
+9:10:32 PM Navigating to 'http://www.yellowpages.com/'.....
+9:10:33 PM =========================================================================================
+9:10:33 PM Error (-2146697211) - http://www.yellowpages.com/
+9:10:33 PM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+9:10:33 PM =========================================================================================
+9:10:33 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:10:37 PM Application ended.
+9:11:20 PM Opening 'http://www.yellowpages.com/'..............
+9:11:20 PM Application starting.....
+9:11:20 PM Navigating to 'http://www.yellowpages.com/'.....
+9:11:21 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:11:21 PM Main page detected.
+9:11:21 PM 
+9:11:21 PM 
+9:11:21 PM  Aplication ready.
+9:11:21 PM 
+9:11:45 PM 
+9:11:45 PM Erasing the result grid content....
+9:11:49 PM 
+9:11:49 PM  Grid erased.
+9:11:49 PM 
+9:11:51 PM   >=======================================================
+9:11:51 PM   Processing state [WY]
+9:11:51 PM   >-------------------------------------------------------
+9:11:51 PM   
+9:11:51 PM 
+9:11:51 PM > > > processing order [1] - Vietnamese restaurants
+9:11:51 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Vietnamese%20restaurants&st=WY'..............
+9:11:51 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Vietnamese%20restaurants&st=WY'.....
+9:11:55 PM Load process completed for 'http://www.yellowpages.com/WY/Vietnamese-Restaurants' - [Categoria]
+9:11:55 PM Analizing result page  'http://www.yellowpages.com/WY/Vietnamese-Restaurants'...
+9:11:55 PM 
+9:11:55 PM  ----- [Page 1 of 1] ------
+9:11:55 PM 
+9:11:55 PM No more pages detected.
+9:11:55 PM 
+9:11:55 PM Process completed for the present state [WY].
+9:11:55 PM 
+9:11:55 PM 
+9:11:55 PM No more state to be processed.
+9:11:55 PM 
+9:12:18 PM 
+9:12:18 PM No more state to be processed.
+9:12:18 PM 
+9:12:21 PM   >=======================================================
+9:12:21 PM   Processing state [WY]
+9:12:21 PM   >-------------------------------------------------------
+9:12:21 PM   
+9:12:21 PM 
+9:12:21 PM > > > processing order [1] - Car Dealers restaurants
+9:12:21 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Car%20Dealers%20restaurants&st=WY'..............
+9:12:21 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Car%20Dealers%20restaurants&st=WY'.....
+9:12:25 PM Load process completed for 'http://www.yellowpages.com/combo/WY/Car-Dealers-restaurants?expansion_factor=1&search_mode=any' - [Categoria]
+9:12:25 PM Analizing result page  'http://www.yellowpages.com/combo/WY/Car-Dealers-restaurants?expansion_factor=1&search_mode=any'...
+9:12:25 PM Error: 'listings' class not found.
+9:12:25 PM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:12:25 PM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:12:25 PM No more pages detected.
+9:12:25 PM 
+9:12:25 PM Process completed for the present state [WY].
+9:12:25 PM 
+9:12:25 PM 
+9:12:25 PM No more state to be processed.
+9:12:25 PM 
+9:13:06 PM Application ended.
+9:13:24 PM Opening 'http://www.yellowpages.com/'..............
+9:13:24 PM Application starting.....
+9:13:24 PM Navigating to 'http://www.yellowpages.com/'.....
+9:13:25 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:13:25 PM Main page detected.
+9:13:25 PM 
+9:13:25 PM 
+9:13:25 PM  Aplication ready.
+9:13:25 PM 
+9:13:38 PM 
+9:13:38 PM No more state to be processed.
+9:13:38 PM 
+9:13:49 PM   >=======================================================
+9:13:49 PM   Processing state [WY]
+9:13:49 PM   >-------------------------------------------------------
+9:13:49 PM   
+9:13:49 PM 
+9:13:49 PM > > > processing order [1] - Automobile Accessories restaurants
+9:13:49 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories%20restaurants&st=WY'..............
+9:13:49 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories%20restaurants&st=WY'.....
+9:13:54 PM Load process completed for 'http://www.yellowpages.com/combo/WY/Automobile-Accessories-restaurants?expansion_factor=1&search_mode=any' - [Categoria]
+9:13:54 PM Analizing result page  'http://www.yellowpages.com/combo/WY/Automobile-Accessories-restaurants?expansion_factor=1&search_mode=any'...
+9:13:54 PM Error: 'listings' class not found.
+9:13:54 PM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:13:54 PM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:13:54 PM No more pages detected.
+9:13:54 PM 
+9:13:54 PM Process completed for the present state [WY].
+9:13:54 PM 
+9:13:54 PM 
+9:13:54 PM No more state to be processed.
+9:13:54 PM 
+9:14:35 PM Opening 'http://www.yellowpages.com/'..............
+9:14:35 PM Application starting.....
+9:14:35 PM Navigating to 'http://www.yellowpages.com/'.....
+9:14:37 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:14:37 PM Main page detected.
+9:14:37 PM 
+9:14:37 PM 
+9:14:37 PM  Aplication ready.
+9:14:37 PM 
+9:14:44 PM 
+9:14:44 PM No more state to be processed.
+9:14:44 PM 
+9:14:52 PM   >=======================================================
+9:14:52 PM   Processing state [WY]
+9:14:52 PM   >-------------------------------------------------------
+9:14:52 PM   
+9:14:52 PM 
+9:14:52 PM > > > processing order [1] - Automobile Accessories
+9:14:52 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'..............
+9:14:52 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'.....
+9:14:58 PM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Accessories' - [Categoria]
+9:14:58 PM Analizing result page  'http://www.yellowpages.com/WY/Automobile-Accessories'...
+9:14:58 PM 
+9:14:58 PM  ----- [Page 1 of 11] ------
+9:14:58 PM 
+9:14:58 PM   >>Atlanta Auto Accessories Sales|Serving the WY Area||||(800) 444-7894||
+9:14:58 PM   >>Atlanta Auto Accessories Sales|Serving the WY Area||||(800) 444-7894||
+9:14:58 PM   >>A & H Small Engine Repair|701 Uinta St|Evanston|82930|WY|(307) 789-1602||
+9:14:58 PM   >>A & H Small Engine Repair|701 Uinta St|Evanston|82930|WY|(307) 789-1602||
+9:14:58 PM   >>A A A Spring Specialist Inc|995 W 2900 S Stlkcty|Rock Springs|82901|WY|(800) 282-7439||
+9:14:58 PM   >>A S A P Radiator and Supply|PO Box 876|Casper|82602|WY|(307) 266-5606||
+9:14:58 PM   >>Aarons Semi Repair Inc|253 Industrial Dr|Rock Springs|82901|WY|(307) 362-3148||
+9:14:58 PM   >>Absolute Upholstery|1617 N Main St|Sheridan|82801|WY|(307) 674-8433||
+9:14:58 PM   >>Ace Auto Parts Plus|705 Pine Ave|Kemmerer|83101|WY|(307) 877-5611||
+9:14:58 PM   >>Ace Radiator Service|410 E 5th St|Sheridan|82801|WY|(307) 674-4773||
+9:14:58 PM   >>Action Automotive|1606 Ratcliff Dr|Gillette|82716|WY|(307) 682-6361||
+9:14:58 PM   >>Action Automotive Incorporated|1701 S Greeley Hwy|Cheyenne|82007|WY|(307) 634-3377||
+9:14:59 PM   >>Advance Auto Parts|1109 E Lincolnway|Cheyenne|82001|WY|(307) 775-7502||
+9:14:59 PM   >>Advance Auto Parts|2015 Dell Range Blvd|Cheyenne|82009|WY|(307) 634-3801||
+9:14:59 PM   >>Advance Auto Parts|611 E Grand Ave|Laramie|82070|WY|(307) 755-0212||
+9:14:59 PM   >>All Star Auto Parts|622 N Main St|Thayne|83127|WY|(307) 883-6272||
+9:14:59 PM   >>Auto Shop|307 16th St|Cody|82414|WY|(307) 587-0577||
+9:14:59 PM   >>Automatic Transmission Systems|1600 Echeta Rd|Gillette|82716|WY|(307) 682-0741||
+9:14:59 PM   >>AutoZone|2037 Cy Ave|Casper|82604|WY|(307) 266-4546||
+9:14:59 PM   >>AutoZone|4212 E 2nd St|Casper|82609|WY|(307) 266-3139||
+9:14:59 PM   >>AutoZone|2530 E Lincolnway|Cheyenne|82001|WY|(307) 637-3000||
+9:14:59 PM   >>AutoZone|107 Beckers Cir|Evanston|82930|WY|(307) 789-7277||
+9:14:59 PM   >>AutoZone|1285 Dewar Dr|Rock Springs|82901|WY|(307) 362-2700||
+9:14:59 PM   >>Bakers Diesel Injection Service|2518 S 2050 W Ogden|Rock Springs|82901|WY|(800) 448-8677||
+9:14:59 PM   >>Balcaens Auto Parts|3001 S Greeley Hwy|Cheyenne|82007|WY|(307) 634-5859||
+9:14:59 PM   >>Big Horn Auto Parts|435 Greybull Ave|Greybull|82426|WY|(307) 765-4478||
+9:14:59 PM New page detected 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2'.
+9:14:59 PM Opening 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2'..............
+9:14:59 PM Navigating to 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2'.....
+9:15:06 PM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2' - [Busqueda]
+9:15:06 PM Starting Analisis for ''....
+9:15:06 PM 
+9:15:06 PM  ----- [Page 2 of 11] ------
+9:15:06 PM 
+9:15:06 PM   >>Big Js Auto Parts Inc|641 Pine St|Pinedale|82941|WY|(307) 367-4329||
+9:15:06 PM   >>Big Js Auto Parts Inc|641 Pine St|Pinedale|82941|WY|(307) 367-4329||
+9:15:06 PM   >>Big Js Auto Parts Incorporated|PO Box 875|Pinedale|82941|WY|(307) 367-4226||
+9:15:06 PM   >>Big West Autoplex|545 N 10th St|Worland|82401|WY|(307) 347-2684||
+9:15:06 PM   >>Brakes Plus|2015 Dell Range Blvd Unit A|Cheyenne|82009|WY|(307) 638-8800||
+9:15:06 PM   >>Brians Muffler Shop|1125 State Highway 89 N Ste C|Evanston|82930|WY|(307) 789-7021||
+9:15:06 PM   >>Brothers Automatic Transmissions|100 Redwood St|Buffalo|82834|WY|(307) 684-2962||
+9:15:06 PM   >>Budget Transmission|1116 Hugur Ave|Cheyenne|82001|WY|(307) 632-1004||
+9:15:06 PM   >>Buffalo Radiator|133 N Desmet Ave|Buffalo|82834|WY|(307) 684-2604||
+9:15:06 PM   >>Bullhide 4x4 & Auto Accessories|5817 S College Ave Fort Collins|Cheyenne|82001|WY|(970) 224-2288||
+9:15:06 PM   >>Bumper To Bumper Auto Parts|1901 Mountain View Dr|Cody|82414|WY|(307) 587-7500||
+9:15:06 PM   >>Bumper To Bumper Auto Parts|101 N 6th St|Greybull|82426|WY|(307) 765-9355||
+9:15:06 PM   >>Bumper To Bumper Auto Parts|144 N Absaroka St|Powell|82435|WY|(307) 754-5115||
+9:15:06 PM   >>Buzzs Transmission Service & Repair|1519 S Greeley Hwy|Cheyenne|82007|WY|(307) 634-7171||
+9:15:06 PM   >>Car Wash Supply|1652 Begonia St|Casper|82604|WY|(307) 577-9219||
+9:15:06 PM   >>Carey Corporation|101 E Center St|Douglas|82633|WY|(307) 358-4825||
+9:15:06 PM   >>CARQUEST Auto Parts|25 Rocky Rd|Afton|83110|WY|(307) 885-1366||
+9:15:06 PM   >>CARQUEST Auto Parts|3201 Cy Ave|Casper|82604|WY|(307) 237-1681||
+9:15:06 PM   >>CARQUEST Auto Parts|103 W 6th Ave|Cheyenne|82001|WY|(307) 632-9369||
+9:15:06 PM   >>CARQUEST Auto Parts|103 W 6th St|Cheyenne|82007|WY|(307) 634-9641||
+9:15:06 PM   >>CARQUEST Auto Parts|2013 Big Horn Ave|Cody|82414|WY|(307) 587-2255||
+9:15:06 PM   >>CARQUEST Auto Parts|133 Bear River Dr|Evanston|82930|WY|(307) 789-2350||
+9:15:06 PM   >>CARQUEST Auto Parts|204 W 1st St|Gillette|82716|WY|(307) 682-4725||
+9:15:06 PM   >>CARQUEST Auto Parts|1 S Wyoming Ave|Guernsey|82214|WY|(307) 836-2166||
+9:15:06 PM   >>CARQUEST Auto Parts|207 E Fremont St|Laramie|82072|WY|(307) 745-8926||
+9:15:06 PM New page detected 'http://www.yellowpages.com/WY/Automobile-Accessories?page=3'.
+9:15:06 PM Opening 'http://www.yellowpages.com/WY/Automobile-Accessories?page=3'..............
+9:15:06 PM Navigating to 'http://www.yellowpages.com/WY/Automobile-Accessories?page=3'.....
+9:15:06 PM 
+9:15:06 PM Searching process interrupted by the user....
+9:15:06 PM 
+9:15:09 PM Application ended.
+9:15:11 PM Opening 'http://www.yellowpages.com/'..............
+9:15:11 PM Application starting.....
+9:15:11 PM Navigating to 'http://www.yellowpages.com/'.....
+9:15:12 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:15:12 PM Main page detected.
+9:15:12 PM 
+9:15:12 PM 
+9:15:12 PM  Aplication ready.
+9:15:12 PM 
+9:15:13 PM 
+9:15:13 PM Erasing the result grid content....
+9:15:15 PM 
+9:15:15 PM  Grid erased.
+9:15:15 PM 
+9:15:17 PM   >=======================================================
+9:15:17 PM   Processing state [WY]
+9:15:17 PM   >-------------------------------------------------------
+9:15:17 PM   
+9:15:17 PM 
+9:15:17 PM > > > processing order [1] - Automobile Accessories
+9:15:17 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'..............
+9:15:17 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'.....
+9:15:23 PM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Accessories' - [Categoria]
+9:15:23 PM Analizing result page  'http://www.yellowpages.com/WY/Automobile-Accessories'...
+9:15:23 PM 
+9:15:23 PM  ----- [Page 1 of 11] ------
+9:15:23 PM 
+9:15:23 PM   >>Atlanta Auto Accessories Sales|Serving the WY Area||||(800) 444-7894||
+9:15:23 PM   >>Atlanta Auto Accessories Sales|Serving the WY Area||||(800) 444-7894||
+9:15:23 PM   >>A & H Small Engine Repair|701 Uinta St|Evanston|82930|WY|(307) 789-1602||
+9:15:24 PM   >>A & H Small Engine Repair|701 Uinta St|Evanston|82930|WY|(307) 789-1602||
+9:15:24 PM   >>A A A Spring Specialist Inc|995 W 2900 S Stlkcty|Rock Springs|82901|WY|(800) 282-7439||
+9:15:24 PM   >>A S A P Radiator and Supply|PO Box 876|Casper|82602|WY|(307) 266-5606||
+9:15:24 PM   >>Aarons Semi Repair Inc|253 Industrial Dr|Rock Springs|82901|WY|(307) 362-3148||
+9:15:24 PM   >>Absolute Upholstery|1617 N Main St|Sheridan|82801|WY|(307) 674-8433||
+9:15:24 PM   >>Ace Auto Parts Plus|705 Pine Ave|Kemmerer|83101|WY|(307) 877-5611||
+9:15:24 PM   >>Ace Radiator Service|410 E 5th St|Sheridan|82801|WY|(307) 674-4773||
+9:15:24 PM   >>Action Automotive|1606 Ratcliff Dr|Gillette|82716|WY|(307) 682-6361||
+9:15:24 PM   >>Action Automotive Incorporated|1701 S Greeley Hwy|Cheyenne|82007|WY|(307) 634-3377||
+9:15:24 PM   >>Advance Auto Parts|1109 E Lincolnway|Cheyenne|82001|WY|(307) 775-7502||
+9:15:24 PM   >>Advance Auto Parts|2015 Dell Range Blvd|Cheyenne|82009|WY|(307) 634-3801||
+9:15:24 PM   >>Advance Auto Parts|611 E Grand Ave|Laramie|82070|WY|(307) 755-0212||
+9:15:24 PM   >>All Star Auto Parts|622 N Main St|Thayne|83127|WY|(307) 883-6272||
+9:15:24 PM   >>Auto Shop|307 16th St|Cody|82414|WY|(307) 587-0577||
+9:15:24 PM   >>Automatic Transmission Systems|1600 Echeta Rd|Gillette|82716|WY|(307) 682-0741||
+9:15:24 PM   >>AutoZone|2037 Cy Ave|Casper|82604|WY|(307) 266-4546||
+9:15:24 PM   >>AutoZone|4212 E 2nd St|Casper|82609|WY|(307) 266-3139||
+9:15:24 PM   >>AutoZone|2530 E Lincolnway|Cheyenne|82001|WY|(307) 637-3000||
+9:15:24 PM   >>AutoZone|107 Beckers Cir|Evanston|82930|WY|(307) 789-7277||
+9:15:24 PM   >>AutoZone|1285 Dewar Dr|Rock Springs|82901|WY|(307) 362-2700||
+9:15:24 PM   >>Bakers Diesel Injection Service|2518 S 2050 W Ogden|Rock Springs|82901|WY|(800) 448-8677||
+9:15:24 PM   >>Balcaens Auto Parts|3001 S Greeley Hwy|Cheyenne|82007|WY|(307) 634-5859||
+9:15:24 PM   >>Big Horn Auto Parts|435 Greybull Ave|Greybull|82426|WY|(307) 765-4478||
+9:15:24 PM New page detected 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2'.
+9:15:24 PM Opening 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2'..............
+9:15:24 PM Navigating to 'http://www.yellowpages.com/WY/Automobile-Accessories?page=2'.....
+9:15:28 PM Opening 'http://www.yellowpages.com/'..............
+9:15:28 PM Application starting.....
+9:15:28 PM Navigating to 'http://www.yellowpages.com/'.....
+9:15:32 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:15:32 PM Main page detected.
+9:15:32 PM 
+9:15:32 PM 
+9:15:32 PM  Aplication ready.
+9:15:32 PM 
+9:15:38 PM 
+9:15:38 PM Erasing the result grid content....
+9:15:46 PM 
+9:15:46 PM Erasing the result grid content....
+9:15:47 PM 
+9:15:47 PM  Grid erased.
+9:15:47 PM 
+9:15:52 PM   >=======================================================
+9:15:52 PM   Processing state [WY]
+9:15:52 PM   >-------------------------------------------------------
+9:15:52 PM   
+9:15:52 PM 
+9:15:52 PM > > > processing order [1] - Automobile Accessories
+9:15:52 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'..............
+9:15:52 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'.....
+9:15:58 PM Opening 'http://www.yellowpages.com/'..............
+9:15:58 PM Application starting.....
+9:15:58 PM Navigating to 'http://www.yellowpages.com/'.....
+9:16:00 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:16:00 PM Main page detected.
+9:16:00 PM 
+9:16:00 PM 
+9:16:00 PM  Aplication ready.
+9:16:00 PM 
+9:16:07 PM   >=======================================================
+9:16:07 PM   Processing state [WY]
+9:16:07 PM   >-------------------------------------------------------
+9:16:07 PM   
+9:16:07 PM 
+9:16:07 PM > > > processing order [1] - Automobile Accessories
+9:16:07 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'..............
+9:16:07 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Accessories&st=WY'.....
+9:16:12 PM Opening 'http://www.yellowpages.com/'..............
+9:16:12 PM Application starting.....
+9:16:12 PM Navigating to 'http://www.yellowpages.com/'.....
+9:16:13 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:16:13 PM Main page detected.
+9:16:13 PM 
+9:16:13 PM 
+9:16:13 PM  Aplication ready.
+9:16:13 PM 
+9:16:42 PM   >=======================================================
+9:16:42 PM   Processing state [WY]
+9:16:42 PM   >-------------------------------------------------------
+9:16:42 PM   
+9:16:42 PM 
+9:16:42 PM > > > processing order [1] - Auto Repair & Service 
+9:16:42 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Auto%20Repair%20%26%20Service%20&st=WY'..............
+9:16:42 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Auto%20Repair%20%26%20Service%20&st=WY'.....
+9:16:48 PM Load process completed for 'http://www.yellowpages.com/WY/Auto-Repair-Service' - [Categoria]
+9:16:48 PM Analizing result page  'http://www.yellowpages.com/WY/Auto-Repair-Service'...
+9:16:48 PM 
+9:16:48 PM  ----- [Page 1 of 24] ------
+9:16:48 PM 
+9:16:48 PM ================================================================
+9:16:48 PM Error 91 - Object variable or With block variable not set
+9:16:48 PM 
+9:16:48 PM Error [91] in procedure procesarRegistros - Formulario 'frmMain'
+
+Generated by: RACYellowPages
+Description : Object variable or With block variable not set
+
+9:17:24 PM New page detected 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=2'.
+9:17:24 PM Opening 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=2'..............
+9:17:24 PM Navigating to 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=2'.....
+9:17:28 PM Load process completed for 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=2' - [Busqueda]
+9:17:28 PM Starting Analisis for ''....
+9:17:28 PM 
+9:17:28 PM  ----- [Page 2 of 24] ------
+9:17:28 PM 
+9:17:28 PM   >>Meineke Car Care Centers|2155 Cy Avenue|Casper|82604|WY|(307) 237-1185||
+9:17:28 PM   >>Meineke Car Care Centers|2155 Cy Avenue|Casper|82604|WY|(307) 237-1185||
+9:17:28 PM   >>Meineke Car Care Centers|1627 Dell Range Boulevard|Cheyenne|82009|WY|(307) 638-1888||
+9:17:28 PM   >>Meineke Car Care Centers|1627 Dell Range Boulevard|Cheyenne|82009|WY|(307) 638-1888||
+9:17:28 PM   >>Sears Auto Center|701 Se Wyoming Blvd|Casper|82609|WY|(307) 261-4984||
+9:17:28 PM   >>Sears Auto Center|1400 Del Range Blvd|Cheyenne|82009|WY|(307) 775-6628||
+9:17:28 PM   >>5 Star Muffler & Auto Repair|120 S 2nd St|Douglas|82633|WY|(307) 358-5506||
+9:17:28 PM   >>5 Star Muffler & Auto Repair|120 S 2nd St|Douglas|82633|WY|(307) 358-5506||
+9:17:28 PM   >>5 Star Muffler and Auto Repair|125 S Center St|Casper|82601|WY|(307) 358-5506||
+9:17:28 PM   >>9th St Auto Repair|1635 9th St|Rock Springs|82901|WY|(307) 382-5250||
+9:17:29 PM   >>A & C Motors|1000 N 6th St|Greybull|82426|WY|(307) 765-9693||
+9:17:29 PM   >>A & C Motors|2677 Horseshoe Ln|Greybull|82426|WY|(307) 765-9693||
+9:17:29 PM   >>A C T Ion|1606 W Us Highway 14-16|Gillette|82716|WY|(307) 682-6361||
+9:17:29 PM   >>A Fordable Used Car Rentals|267 Bear River Dr|Evanston|82930|WY|(307) 789-5675||
+9:17:29 PM   >>A Plus Towing & Repair|77 E Ridge Rd|Sheridan|82801|WY|(307) 674-9764||
+9:17:29 PM   >>A Plus Tune Up & Repair|2705 Powder Basin Ave|Gillette|82718|WY|(307) 682-8400||
+9:17:29 PM   >>A S A P Radiator Repair|1936 N Loop Ave|Casper|82601|WY|(307) 266-5606||
+9:17:29 PM   >>AAMCO Transmissions|1625 Dell Range Blvd|Cheyenne|82009|WY|(307) 635-8435||
+9:17:29 PM   >>Abco Transmissions|42 Purple Sage Rd|Rock Springs|82901|WY|(307) 382-6080||
+9:17:29 PM   >>Able Auto|615 W Elk Ave Ste F|Jackson|83001|WY|(307) 739-8960||
+9:17:29 PM   >>Accurate Collision Frame & Alignment|611 Crook Ave|Cheyenne|82001|WY|(307) 635-2601||
+9:17:29 PM   >>ACDelco|Serving Natrona County|Casper|82609|WY|(800) 223-3526||
+9:17:29 PM   >>ACDelco|Serving Cheyenne Metro Area|Cheyenne|82001|WY|(800) 223-3526||
+9:17:29 PM   >>ACDelco|Serving Converse County|Douglas|82633|WY|(800) 223-3526||
+9:17:29 PM   >>ACDelco|Serving Uinta County|Evanston|82930|WY|(800) 223-3526||
+9:17:29 PM   >>ACDelco|Serving Albany County|Laramie|82070|WY|(800) 223-3526||
+9:17:29 PM   >>ACDelco|Serving Weston County|Newcastle|82701|WY|(800) 223-3526||
+9:17:29 PM   >>ACDelco|Serving Sweetwater County|Rock Springs|82901|WY|(800) 223-3526||
+9:17:29 PM New page detected 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=3'.
+9:17:29 PM Opening 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=3'..............
+9:17:29 PM Navigating to 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=3'.....
+9:17:33 PM Load process completed for 'http://www.yellowpages.com/WY/Auto-Repair-Service?page=3' - [Busqueda]
+9:17:33 PM Starting Analisis for ''....
+9:17:33 PM 
+9:17:33 PM  ----- [Page 3 of 24] ------
+9:17:33 PM 
+9:17:33 PM   >>ACDelco|Serving Goshen County|Torrington|82240|WY|(800) 223-3526||
+9:17:33 PM   >>ACDelco|Serving Goshen County|Torrington|82240|WY|(800) 223-3526||
+9:17:33 PM   >>ACDelco|Serving Washakie County|Worland|82401|WY|(800) 223-3526||
+9:17:33 PM   >>Ace Mobile Auto Truck Repair|185 Bear River Dr|Evanston|82930|WY|(307) 789-8700||
+9:17:33 PM   >>Ace Radiator Service|410 E 5th St|Sheridan|82801|WY|(307) 674-4773||
+9:17:33 PM   >>Action Automotive|1606 Ratcliff Dr|Gillette|82716|WY|(307) 682-6361||
+9:17:33 PM   >>Action Transmission Repair|112 Pyramid Dr|Rock Springs|82901|WY|(307) 362-8605||
+9:21:59 PM Opening 'http://www.yellowpages.com/'..............
+9:21:59 PM Application starting.....
+9:21:59 PM Navigating to 'http://www.yellowpages.com/'.....
+9:22:09 PM Application ended.
+9:22:45 PM Opening 'http://www.yellowpages.com/'..............
+9:22:45 PM Application starting.....
+9:22:45 PM Navigating to 'http://www.yellowpages.com/'.....
+9:23:00 PM Application ended.
+9:23:36 PM Opening 'http://www.yellowpages.com/'..............
+9:23:36 PM Application starting.....
+9:23:36 PM Navigating to 'http://www.yellowpages.com/'.....
+9:24:09 PM Opening 'http://www.yellowpages.com/'..............
+9:24:09 PM Application starting.....
+9:24:09 PM Navigating to 'http://www.yellowpages.com/'.....
+9:24:26 PM Opening 'http://www.yellowpages.com/'..............
+9:24:26 PM Application starting.....
+9:24:26 PM Navigating to 'http://www.yellowpages.com/'.....
+9:24:37 PM Application ended.
+9:25:22 PM Opening 'http://www.yellowpages.com/'..............
+9:25:22 PM Application starting.....
+9:25:22 PM Navigating to 'http://www.yellowpages.com/'.....
+9:25:24 PM Application ended.
+9:26:14 PM Opening 'http://www.yellowpages.com/'..............
+9:26:14 PM Application starting.....
+9:26:14 PM Navigating to 'http://www.yellowpages.com/'.....
+9:26:30 PM =========================================================================================
+9:26:30 PM Error (-2146697208) - http://www.yellowpages.com/
+9:26:30 PM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+9:26:30 PM =========================================================================================
+9:26:30 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:26:36 PM Application ended.
+9:26:52 PM Opening 'http://www.yellowpages.com/'..............
+9:26:52 PM Application starting.....
+9:26:52 PM Navigating to 'http://www.yellowpages.com/'.....
+9:29:29 PM Opening 'http://www.yellowpages.com/'..............
+9:29:29 PM Application starting.....
+9:29:29 PM Navigating to 'http://www.yellowpages.com/'.....
+9:29:46 PM =========================================================================================
+9:29:46 PM Error (-2146697208) - http://www.yellowpages.com/
+9:29:46 PM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+9:29:46 PM =========================================================================================
+9:29:46 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:30:14 PM Opening 'http://www.yellowpages.com/'..............
+9:30:14 PM Application starting.....
+9:30:14 PM Navigating to 'http://www.yellowpages.com/'.....
+9:32:04 PM Opening 'http://www.yellowpages.com/'..............
+9:32:04 PM Application starting.....
+9:32:04 PM Navigating to 'http://www.yellowpages.com/'.....
+9:32:21 PM =========================================================================================
+9:32:21 PM Error (-2146697208) - http://www.yellowpages.com/
+9:32:21 PM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+9:32:21 PM =========================================================================================
+9:32:21 PM Retrying navegate page 'http://www.yellowpages.com/'
+9:32:27 PM Application ended.
+9:48:46 PM Opening 'http://www.yellowpages.com/'..............
+9:48:46 PM Application starting.....
+9:48:46 PM Navigating to 'http://www.yellowpages.com/'.....
+9:48:54 PM Application ended.
+9:48:58 PM Opening 'http://www.yellowpages.com/'..............
+9:48:58 PM Application starting.....
+9:48:58 PM Navigating to 'http://www.yellowpages.com/'.....
+9:50:05 PM Opening 'http://www.yellowpages.com/'..............
+9:50:05 PM Application starting.....
+9:50:05 PM Navigating to 'http://www.yellowpages.com/'.....
+9:50:09 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:50:09 PM Main page detected.
+9:50:09 PM 
+9:50:09 PM 
+9:50:09 PM  Aplication ready.
+9:50:09 PM 
+9:50:26 PM 
+9:50:26 PM No more state to be processed.
+9:50:26 PM 
+9:50:28 PM 
+9:50:28 PM No more state to be processed.
+9:50:28 PM 
+9:50:37 PM 
+9:50:37 PM No more state to be processed.
+9:50:37 PM 
+9:50:41 PM   >=======================================================
+9:50:41 PM   Processing state [WY]
+9:50:41 PM   >-------------------------------------------------------
+9:50:41 PM   
+9:50:41 PM 
+9:50:41 PM > > > processing order [1] - Automobile Dealers
+9:50:41 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Dealers&st=WY'..............
+9:50:41 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Dealers&st=WY'.....
+9:50:47 PM Load process completed for 'http://www.yellowpages.com/categories/WY/Automobile-Dealers' - [Categoria]
+9:50:47 PM Analizing result page  'http://www.yellowpages.com/categories/WY/Automobile-Dealers'...
+9:50:47 PM Error: 'listings' class not found.
+9:50:47 PM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:50:47 PM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:50:47 PM No more pages detected.
+9:50:47 PM 
+9:50:47 PM Process completed for the present state [WY].
+9:50:47 PM 
+9:50:47 PM 
+9:50:47 PM No more state to be processed.
+9:50:47 PM 
+9:50:54 PM 
+9:50:54 PM No more state to be processed.
+9:50:54 PM 
+9:50:57 PM   >=======================================================
+9:50:57 PM   Processing state [WY]
+9:50:57 PM   >-------------------------------------------------------
+9:50:57 PM   
+9:50:57 PM 
+9:50:57 PM > > > processing order [1] - Automobile Dealers
+9:50:57 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Dealers&st=WY'..............
+9:50:57 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Automobile%20Dealers&st=WY'.....
+9:51:02 PM Load process completed for 'http://www.yellowpages.com/categories/WY/Automobile-Dealers' - [Categoria]
+9:51:02 PM Analizing result page  'http://www.yellowpages.com/categories/WY/Automobile-Dealers'...
+9:51:03 PM Error: 'listings' class not found.
+9:51:03 PM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:51:03 PM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:51:03 PM No more pages detected.
+9:51:03 PM 
+9:51:03 PM Process completed for the present state [WY].
+9:51:03 PM 
+9:51:03 PM 
+9:51:03 PM No more state to be processed.
+9:51:03 PM 
+9:51:06 PM Application ended.
+9:59:12 PM Opening 'http://www.yellowpages.com/'..............
+9:59:12 PM Application starting.....
+9:59:12 PM Navigating to 'http://www.yellowpages.com/'.....
+9:59:18 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:59:20 PM Main page detected.
+9:59:20 PM 
+9:59:20 PM 
+9:59:20 PM  Aplication ready.
+9:59:20 PM 
+10:00:48 PM   >=======================================================
+10:00:48 PM   Processing state [WY]
+10:00:48 PM   >-------------------------------------------------------
+10:00:48 PM   
+10:00:48 PM 
+10:00:48 PM > > > processing order [1] - Antique & Classic Cars 
+10:00:48 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Antique%20%26%20Classic%20Cars%20&st=WY'..............
+10:00:48 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Antique%20%26%20Classic%20Cars%20&st=WY'.....
+10:00:58 PM Load process completed for 'http://www.yellowpages.com/WY/Antique-Classic-Cars' - [Categoria]
+10:00:58 PM Analizing result page  'http://www.yellowpages.com/WY/Antique-Classic-Cars'...
+10:00:58 PM 
+10:00:58 PM  ----- [Page 1 of 1] ------
+10:00:58 PM 
+10:00:58 PM   >>Auto Appraise|Serving the WY Area||||(800) 301-3886||
+10:00:59 PM   >>Auto Appraise|Serving the WY Area||||(800) 301-3886||
+10:00:59 PM   >>B & B Antiques|1357 South St|Wheatland|82201|WY|(307) 322-9327||
+10:00:59 PM   >>B & B Antiques|1357 South St|Wheatland|82201|WY|(307) 322-9327||
+10:00:59 PM   >>Sheehan Classic Cars|110 W Main St|Newcastle|82701|WY|(307) 746-2239||
+10:00:59 PM   >>Wyoming Classic Cars|12200 Poison Spider Rd|Casper|82604|WY|(307) 472-0201||
+10:00:59 PM No more pages detected.
+10:00:59 PM 
+10:00:59 PM > > > processing order [1] - Used Truck Dealers 
+10:00:59 PM 
+10:00:59 PM Searching for 'Used Truck Dealers '....
+10:00:59 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Used%20Truck%20Dealers%20&st=WY'..............
+10:00:59 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Used%20Truck%20Dealers%20&st=WY'.....
+10:01:15 PM Load process completed for 'http://www.yellowpages.com/WY/Used-Truck-Dealers' - [Analisis]
+10:01:15 PM Analizing result for 'http://www.yellowpages.com/WY/Used-Truck-Dealers'...
+10:01:15 PM 
+10:01:15 PM  ----- [Page 1 of 1] ------
+10:01:15 PM 
+10:01:15 PM   >>Arrow Truck Sales|Serving the WY Area||||(800) 713-0628||
+10:01:15 PM   >>Arrow Truck Sales|Serving the WY Area||||(800) 713-0628||
+10:01:15 PM   >>Emergency Auto Buyers|Serving the WY Area||||(800) 976-8592||bentley@autopartssaver.com
+10:01:15 PM   >>Emergency Auto Buyers|Serving the WY Area||||(800) 976-8592||bentley@autopartssaver.com
+10:01:15 PM   >>Capitol Auto Sales|601 E Lincolnway|Cheyenne|82001|WY|(307) 632-3332||
+10:01:16 PM   >>Capitol Auto Sales|601 E Lincolnway|Cheyenne|82001|WY|(307) 632-3332||
+10:01:16 PM   >>Green River Auto Sales|1000 W Flaming Gorge Way|Green River|82935|WY|(307) 875-2111||
+10:01:16 PM   >>Heavy Trucks Wholesale Inc|PO Box 643|Big Piney|83113|WY|(307) 276-3633||
+10:01:16 PM   >>Honda Of Casper|3801 Cy Ave|Casper|82604|WY|(307) 577-9342||
+10:01:16 PM   >>Marks Motors|1216 S Greeley Hwy|Cheyenne|82007|WY|(307) 632-9588||
+10:01:16 PM   >>Quality Motors|503 W Spruce St|Rawlins|82301|WY|(307) 324-4888||
+10:01:16 PM   >>Select Used Cars|737 W Collins Dr|Casper|82601|WY|(307) 266-2005||
+10:01:16 PM   >>The Car Shop|811 E Yellowstone Hwy|Casper|82601|WY|(307) 577-7094||
+10:01:16 PM   >>Trout Machinery Inc|3250 E Yellowstone Hwy|Casper|82609|WY|(307) 265-0809||
+10:01:16 PM   >>Trout Machinery Incorporated|3150 E Yellowstone Hwy|Casper|82609|WY|(307) 265-0809||
+10:01:16 PM   >>White Davis Motors|444 Skyline Dr|Gillette|82718|WY|(307) 682-8851||
+10:01:16 PM   >>Wyoming Trucks and Cars|1503 Dewar Dr|Rock Springs|82901|WY|(307) 352-6500||
+10:01:16 PM   >>Wyoming Trucks and Cars|99 Center St|Rock Springs|82901|WY|(307) 352-6501||
+10:01:16 PM No more pages detected.
+10:01:16 PM 
+10:01:16 PM Process completed for the present state [WY].
+10:01:16 PM 
+10:01:16 PM 
+10:01:16 PM No more state to be processed.
+10:01:16 PM 
+10:01:28 PM Application ended.
+10:01:32 PM Opening 'http://www.yellowpages.com/'..............
+10:01:32 PM Application starting.....
+10:01:32 PM Navigating to 'http://www.yellowpages.com/'.....
+10:01:40 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:01:40 PM Main page detected.
+10:01:40 PM 
+10:01:40 PM 
+10:01:40 PM  Aplication ready.
+10:01:40 PM 
+10:01:45 PM 
+10:01:45 PM Erasing the result grid content....
+10:01:52 PM Opening 'http://www.yellowpages.com/'..............
+10:01:52 PM Application starting.....
+10:01:53 PM Navigating to 'http://www.yellowpages.com/'.....
+10:01:59 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:01:59 PM Main page detected.
+10:01:59 PM 
+10:01:59 PM 
+10:01:59 PM  Aplication ready.
+10:01:59 PM 
+10:02:02 PM 
+10:02:02 PM Erasing the result grid content....
+10:02:04 PM 
+10:02:04 PM  Grid erased.
+10:02:04 PM 
+10:02:07 PM   >=======================================================
+10:02:07 PM   Processing state [WY]
+10:02:07 PM   >-------------------------------------------------------
+10:02:07 PM   
+10:02:07 PM 
+10:02:07 PM > > > processing order [1] - Antique & Classic Cars 
+10:02:07 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Antique%20%26%20Classic%20Cars%20&st=WY'..............
+10:02:07 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Antique%20%26%20Classic%20Cars%20&st=WY'.....
+10:02:16 PM Load process completed for 'http://www.yellowpages.com/WY/Antique-Classic-Cars' - [Categoria]
+10:02:16 PM Analizing result page  'http://www.yellowpages.com/WY/Antique-Classic-Cars'...
+10:02:16 PM 
+10:02:16 PM  ----- [Page 1 of 1] ------
+10:02:16 PM 
+10:02:16 PM   >>Auto Appraise|Serving the WY Area||||(800) 301-3886||
+10:02:16 PM   >>Auto Appraise|Serving the WY Area||||(800) 301-3886||
+10:02:16 PM   >>B & B Antiques|1357 South St|Wheatland|82201|WY|(307) 322-9327||
+10:02:16 PM   >>B & B Antiques|1357 South St|Wheatland|82201|WY|(307) 322-9327||
+10:02:16 PM   >>Sheehan Classic Cars|110 W Main St|Newcastle|82701|WY|(307) 746-2239||
+10:02:16 PM   >>Wyoming Classic Cars|12200 Poison Spider Rd|Casper|82604|WY|(307) 472-0201||
+10:02:16 PM No more pages detected.
+10:02:16 PM 
+10:02:16 PM > > > processing order [1] - Used Truck Dealers 
+10:02:16 PM 
+10:02:16 PM Searching for 'Used Truck Dealers '....
+10:02:16 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Used%20Truck%20Dealers%20&st=WY'..............
+10:02:16 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Used%20Truck%20Dealers%20&st=WY'.....
+10:02:28 PM Load process completed for 'http://www.yellowpages.com/WY/Used-Truck-Dealers' - [Analisis]
+10:02:28 PM Analizing result for 'http://www.yellowpages.com/WY/Used-Truck-Dealers'...
+10:02:28 PM 
+10:02:28 PM  ----- [Page 1 of 1] ------
+10:02:28 PM 
+10:02:28 PM   >>Arrow Truck Sales|Serving the WY Area||||(800) 713-0628||
+10:02:28 PM   >>Arrow Truck Sales|Serving the WY Area||||(800) 713-0628||
+10:02:28 PM   >>Emergency Auto Buyers|Serving the WY Area||||(800) 976-8592||bentley@autopartssaver.com
+10:02:28 PM   >>Emergency Auto Buyers|Serving the WY Area||||(800) 976-8592||bentley@autopartssaver.com
+10:02:28 PM   >>Capitol Auto Sales|601 E Lincolnway|Cheyenne|82001|WY|(307) 632-3332||
+10:02:28 PM   >>Capitol Auto Sales|601 E Lincolnway|Cheyenne|82001|WY|(307) 632-3332||
+10:02:28 PM   >>Green River Auto Sales|1000 W Flaming Gorge Way|Green River|82935|WY|(307) 875-2111||
+10:02:28 PM   >>Heavy Trucks Wholesale Inc|PO Box 643|Big Piney|83113|WY|(307) 276-3633||
+10:02:28 PM   >>Honda Of Casper|3801 Cy Ave|Casper|82604|WY|(307) 577-9342||
+10:02:28 PM   >>Marks Motors|1216 S Greeley Hwy|Cheyenne|82007|WY|(307) 632-9588||
+10:02:29 PM   >>Quality Motors|503 W Spruce St|Rawlins|82301|WY|(307) 324-4888||
+10:02:29 PM   >>Select Used Cars|737 W Collins Dr|Casper|82601|WY|(307) 266-2005||
+10:02:29 PM   >>The Car Shop|811 E Yellowstone Hwy|Casper|82601|WY|(307) 577-7094||
+10:02:29 PM   >>Trout Machinery Inc|3250 E Yellowstone Hwy|Casper|82609|WY|(307) 265-0809||
+10:02:29 PM   >>Trout Machinery Incorporated|3150 E Yellowstone Hwy|Casper|82609|WY|(307) 265-0809||
+10:02:29 PM   >>White Davis Motors|444 Skyline Dr|Gillette|82718|WY|(307) 682-8851||
+10:02:29 PM   >>Wyoming Trucks and Cars|1503 Dewar Dr|Rock Springs|82901|WY|(307) 352-6500||
+10:02:29 PM   >>Wyoming Trucks and Cars|99 Center St|Rock Springs|82901|WY|(307) 352-6501||
+10:02:29 PM No more pages detected.
+10:02:29 PM 
+10:02:29 PM Process completed for the present state [WY].
+10:02:29 PM 
+10:02:29 PM 
+10:02:29 PM No more state to be processed.
+10:02:29 PM 
+9:50:05 PM Opening 'http://www.yellowpages.com/'..............
+9:50:05 PM Application starting.....
+9:50:05 PM Navigating to 'http://www.yellowpages.com/'.....
+9:50:12 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:50:12 PM Main page detected.
+9:50:12 PM 
+9:50:12 PM 
+9:50:12 PM  Aplication ready.
+9:50:12 PM 
+9:50:25 PM 
+9:50:25 PM Erasing the result grid content....
+9:50:42 PM 
+9:50:42 PM Erasing the result grid content....
+9:50:43 PM 
+9:50:43 PM  Grid erased.
+9:50:43 PM 
+9:50:45 PM 
+9:50:45 PM No more state to be processed.
+9:50:45 PM 
+9:50:49 PM   >=======================================================
+9:50:49 PM   Processing state [WY]
+9:50:49 PM   >-------------------------------------------------------
+9:50:49 PM   
+9:50:49 PM 
+9:50:49 PM > > > processing order [1] - Doctors
+9:50:49 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Doctors&st=WY'..............
+9:50:49 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Doctors&st=WY'.....
+9:50:58 PM Load process completed for 'http://www.yellowpages.com/categories/WY/Doctors' - [Categoria]
+9:50:58 PM Analizing result page  'http://www.yellowpages.com/categories/WY/Doctors'...
+9:50:58 PM Error: 'listings' class not found.
+9:50:58 PM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:50:58 PM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:50:58 PM No more pages detected.
+9:50:58 PM 
+9:50:58 PM > > > processing order [1] - Dentists
+9:50:58 PM 
+9:50:58 PM Searching for 'Dentists'....
+9:50:58 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Dentists&st=WY'..............
+9:50:58 PM Navigating to 'http://www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Dentists&st=WY'.....
+9:51:11 PM 
+9:51:11 PM 
+9:51:11 PM 
+9:51:11 PM Opening 'http://www.yellowpages.com/'..............
+9:51:11 PM Application starting.....
+9:51:11 PM Navigating to 'http://www.yellowpages.com/'.....
+9:51:12 PM Application ended.
+9:51:15 PM Opening 'http://www.yellowpages.com/'..............
+9:51:15 PM Application starting.....
+9:51:15 PM Navigating to 'http://www.yellowpages.com/'.....
+9:51:20 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:51:20 PM Main page detected.
+9:51:20 PM 
+9:51:20 PM 
+9:51:21 PM  Aplication ready.
+9:51:21 PM 
+9:53:00 PM   >=======================================================
+9:53:10 PM   Processing state [WY]
+9:53:18 PM   >-------------------------------------------------------
+9:53:27 PM   
+9:55:52 PM 
+9:55:53 PM > > > processing order [1] - Doctors
+9:56:58 PM Opening 'www.yellowpages.com/sp/yellowpages/ypresults.jsp;jsessionid=?t=0&v=3&s=2&q=Doctors&st=WY'..............
+10:03:06 PM Opening 'http://www.yellowpages.com/'..............
+10:03:06 PM Application starting.....
+10:03:06 PM Navigating to 'http://www.yellowpages.com/'.....
+10:03:12 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:03:12 PM Main page detected.
+10:03:12 PM 
+10:03:12 PM 
+10:03:12 PM  Aplication ready.
+10:03:12 PM 
+10:03:21 PM   >=======================================================
+10:03:21 PM   Processing state [WY]
+10:03:21 PM   >-------------------------------------------------------
+10:03:21 PM   
+10:03:23 PM 
+10:03:23 PM > > > processing order [1] - Dentists
+10:05:13 PM Opening 'http://www.yellowpages.com/'..............
+10:05:13 PM Application starting.....
+10:05:13 PM Navigating to 'http://www.yellowpages.com/'.....
+10:05:15 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:05:15 PM Main page detected.
+10:05:15 PM 
+10:05:15 PM 
+10:05:15 PM  Aplication ready.
+10:05:15 PM 
+10:05:22 PM   >=======================================================
+10:05:22 PM   Processing state [WY]
+10:05:22 PM   >-------------------------------------------------------
+10:05:22 PM   
+10:14:07 PM Opening 'http://www.yellowpages.com/'..............
+10:14:07 PM Application starting.....
+10:14:07 PM Navigating to 'http://www.yellowpages.com/'.....
+10:14:09 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:14:09 PM Main page detected.
+10:14:09 PM 
+10:14:09 PM 
+10:14:09 PM  Aplication ready.
+10:14:09 PM 
+10:14:11 PM   >=======================================================
+10:14:11 PM   Processing state [WY]
+10:14:11 PM   >-------------------------------------------------------
+10:14:11 PM   
+10:15:51 PM 
+10:15:51 PM > > > processing order [1] - Dentists
+10:15:59 PM Opening 'www.yellowpages.com/WY/Dentists'..............
+10:15:59 PM Navigating to 'http://www.yellowpages.com/WY/Dentists'.....
+10:16:08 PM Load process completed for 'http://www.yellowpages.com/WY/Dentists' - [Categoria]
+10:16:08 PM Analizing result page  'http://www.yellowpages.com/WY/Dentists'...
+10:16:08 PM 
+10:16:08 PM  ----- [Page 1 of 16] ------
+10:16:08 PM 
+10:16:08 PM   >>Cassity, Jessica L.|102 N. Kenwood|Casper|82601|WY|(307) 234-3100||drcassity@msn.com
+10:16:08 PM   >>Cassity, Jessica L.|102 N. Kenwood|Casper|82601|WY|(307) 234-3100||drcassity@msn.com
+10:16:08 PM   >>Access Dental Care Clinic PC|3100 Henderson Dr|Cheyenne|82001|WY|(307) 632-6665||
+10:16:08 PM   >>Access Dental Care Clinic PC|3100 Henderson Dr|Cheyenne|82001|WY|(307) 632-6665||
+10:16:08 PM   >>Adams Bruce DDS|2828 E Grand Ave|Laramie|82070|WY|(307) 721-2900||
+10:16:08 PM   >>Advanced Dental Emergency Care|1115 Maple Way|Jackson|83002|WY|(307) 733-7237||
+10:16:08 PM   >>Advanced Family Dental Care|1431 S Beverly St|Casper|82609|WY|(307) 265-5334||
+10:16:08 PM   >>Aesthetic Dentistry PC|7010 Yellowtail Rd Ste 100|Cheyenne|82009|WY|(307) 632-6597||
+10:16:08 PM   >>Airpark Dental|1401 Airport Pkwy Ste 100|Cheyenne|82001|WY|(307) 635-2419||
+10:16:08 PM   >>Akin Larry D DDS|175 N Bernard St|Powell|82435|WY|(307) 754-3391||
+10:16:08 PM   >>Albany County Family Dentistry|1252 N 22nd St Unit A|Laramie|82072|WY|(307) 755-0444||
+10:16:08 PM   >>All American Dental Clinic|1414 Central Ave|Kemmerer|83101|WY|(307) 877-3157||
+10:16:08 PM   >>All American Dental Clinic|513 Coral St|Kemmerer|83101|WY|(307) 877-3157||
+10:16:08 PM   >>Allegretti Dan|1616 E 19th St Ste 2|Cheyenne|82001|WY|(307) 632-0565||
+10:16:08 PM   >>Alpine Dental Clinic|1749 S Boxelder St|Casper|82604|WY|(307) 234-6358||
+10:16:08 PM   >>Anderson Dental PC|1950 South St|Wheatland|82201|WY|(307) 322-3778||
+10:16:09 PM   >>Anesthesiology for Dentistry| |Cheyenne|82001|WY|(307) 778-7100||
+10:16:09 PM   >>Apple Grove Dental|102 N Kenwood St|Casper|82601|WY|(307) 234-9832||
+10:16:09 PM   >>Area Association of Orthodontists|112 High St|Buffalo|82834|WY|(307) 684-2733||
+10:16:09 PM   >>Area Association of Orthodontists|1216 E 2nd St|Casper|82601|WY|(307) 234-8555||
+10:16:09 PM   >>Area Association of Orthodontists|295 N Walsh Dr|Casper|82609|WY|(307) 265-7878||
+10:16:09 PM   >>Area Association of Orthodontists|814 S David St|Casper|82601|WY|(307) 265-6565||
+10:16:09 PM   >>Area Association of Orthodontists|932 S David St|Casper|82601|WY|(307) 237-8419||
+10:16:09 PM   >>Area Association of Orthodontists|124 N 4th St|Douglas|82633|WY|(307) 265-6565||
+10:16:09 PM   >>Area Association of Orthodontists|105 W Lakeway Rd|Gillette|82718|WY|(307) 686-0071||
+10:16:09 PM   >>Arrowhead Dental|50 Arrowhead Dr|Evanston|82930|WY|(307) 288-5070||
+10:16:09 PM   >>Aspen Dental Center| |Rock Springs|82901|WY|(307) 382-5902||
+10:16:09 PM New page detected 'http://www.yellowpages.com/WY/Dentists?page=2'.
+10:16:12 PM Opening 'http://www.yellowpages.com/WY/Dentists?page=2'..............
+10:16:12 PM Navigating to 'http://www.yellowpages.com/WY/Dentists?page=2'.....
+10:16:18 PM Load process completed for 'http://www.yellowpages.com/WY/Dentists?page=2' - [Busqueda]
+10:16:18 PM Starting Analisis for ''....
+10:16:18 PM 
+10:16:18 PM  ----- [Page 2 of 16] ------
+10:16:18 PM 
+10:16:18 PM   >>Aspen Hills Dental Care| |Afton|83110|WY|(307) 885-4334||
+10:16:18 PM   >>Aspen Hills Dental Care| |Afton|83110|WY|(307) 885-4334||
+10:16:18 PM   >>Aspen Hills Dental Care|800 N Washington St|Afton|83110|WY|(307) 885-4337||
+10:16:18 PM   >>Aspen Hills Dental Care|19 State Highway 239|Freedom|83120|WY|(307) 885-4337||
+10:16:18 PM   >>Aspen Ridge Dental|1122 S Conwell St|Casper|82601|WY|(307) 234-6054||
+10:16:18 PM   >>Associated Dental Lab|306 W 3rd St|Gillette|82716|WY|(307) 687-0486||
+10:16:18 PM   >>Associates In Periodontics|1120 E Elizabeth Bld G Ste 5 Fort C|Bosler|82051|WY|(800) 999-4867||
+10:16:18 PM   >>Associates In Periodontics|6256 Yellowstone Rd|Cheyenne|82009|WY|(800) 999-4867||
+10:16:18 PM   >>Axthelm Paul DDS|325 W Main St|Riverton|82501|WY|(307) 856-8197||
+10:16:18 PM   >>Barelman Robert W|805 S 4j Rd # Gil|Gillette|82716|WY|(307) 682-6655||
+10:16:18 PM   >>Barnes Dana K Dentist PC|1601 E 19th St|Cheyenne|82001|WY|(307) 635-0217||
+10:16:18 PM   >>Batchelder Roger D DDS|621 W 57th St|Casper|82601|WY|(307) 237-5842||
+10:16:18 PM   >>Beddes Arvin B DDS|211 W 9th St|Casper|82601|WY|(307) 266-4193||
+10:16:19 PM   >>Bergien Tyler|1120 Maple Way|Jackson|83002|WY|(307) 734-5200||
+10:16:19 PM   >>Big Horn Basin Dental P C|1413 Howell Ave|Worland|82401|WY|(307) 347-3994||
+10:16:19 PM   >>Big Horn Dental Clinic|407 S Medical Arts Ct Ste 675|Gillette|82716|WY|(307) 686-1567||
+10:16:19 PM   >>Bighorn Dental PC|112 High St|Buffalo|82834|WY|(307) 684-2733||
+10:16:19 PM   >>Bills Brent Dentist|1224 E Jackson Ave|Riverton|82501|WY|(307) 856-1247||
+10:16:19 PM   >>Bills Brent G Orthodontist|209 S 7th St|Worland|82401|WY|(307) 347-4601||
+10:16:19 PM   >>Bills Brent G Orthodontist Orthodontist|1719 Edinburgh St|Rawlins|82301|WY|(307) 324-7130||
+10:16:19 PM   >>Black Hills Dental Group|17 S Seneca Ave|Newcastle|82701|WY|(307) 746-4772||
+10:16:19 PM   >>Bluher John A DDS MS PC|316 Broadway St|Thermopolis|82443|WY|(307) 864-3755||
+10:16:19 PM   >>Bluher John A DDS MS PC Orthodontist|1120 Beck Ave|Cody|82414|WY|(800) 404-9031||
+10:16:19 PM   >>Bouzis John L|130 N Ash St|Casper|82601|WY|(307) 265-3595||
+10:16:19 PM   >>Brewer Dental Center|2675 Central Ave|Cody|82414|WY|(406) 656-6100||
+10:16:19 PM New page detected 'http://www.yellowpages.com/WY/Dentists?page=3'.
+10:16:19 PM Opening 'http://www.yellowpages.com/WY/Dentists?page=3'..............
+10:16:19 PM Navigating to 'http://www.yellowpages.com/WY/Dentists?page=3'.....
+10:16:25 PM Load process completed for 'http://www.yellowpages.com/WY/Dentists?page=3' - [Busqueda]
+10:16:25 PM Starting Analisis for ''....
+10:16:25 PM 
+10:16:25 PM  ----- [Page 3 of 16] ------
+10:16:25 PM 
+10:16:26 PM   >>Brookside Dental|229 Storey Blvd|Cheyenne|82009|WY|(307) 635-6300||
+10:16:26 PM   >>Brookside Dental|229 Storey Blvd|Cheyenne|82009|WY|(307) 635-6300||
+10:16:26 PM   >>Brookside Dental Clinic|1802 Spring Ct|Cheyenne|82009|WY|(307) 635-6300||
+10:16:26 PM   >>Buffalo Dental Clinic|915 W Fetterman St|Buffalo|82834|WY|(307) 684-7533||
+10:16:26 PM   >>Burman Becki DDS|1275 N 15th St Ste 101|Laramie|82072|WY|(307) 745-9261||
+10:16:26 PM   >>Casper Childrens Dental| |Gillette|82716|WY|(307) 266-2662||
+10:16:26 PM   >>Casper Childrens Dental Clinic|102 N Kenwood St|Casper|82601|WY|(307) 266-1997||
+10:16:26 PM   >>Casper Childrens Dental Clinic|105 W Lakeway Rd Unit C|Gillette|82718|WY|(307) 686-7635||
+10:16:26 PM   >>Casper Childrens Dental Clinic|2805 Cedar Ave Ste A|Gillette|82718|WY|(307) 686-7635||
+10:16:26 PM   >>Casper Dental Laboratory|732 S David St|Casper|82601|WY|(307) 234-4243||
+10:16:26 PM   >>Cassity Jessica Dds| |Casper|82601|WY|(307) 234-3100||
+10:16:26 PM   >>Castillon A Bryce DDS|400 N 1st East St Ste 7|Green River|82935|WY|(307) 875-6000||
+10:16:26 PM   >>Cheyenne Family Dental Center|5211 Yellowstone Rd|Cheyenne|82009|WY|(307) 634-7633||
+10:16:26 PM   >>Cheyenne Oral & Maxillofacial Surgery|6238 Yellowstone Rd|Cheyenne|82009|WY|(307) 635-6940||
+10:16:26 PM   >>Cheyenne Oral & Maxillofacial Surgery|3421 E Garfield St|Laramie|82070|WY|(307) 745-7160||
+10:16:26 PM   >>Cheyenne Periodontics PC John C Vangilkel DDS|1252 N 22nd St Ste 121|Laramie|82072|WY|(800) 359-4052||
+10:16:26 PM   >>Cheyenne Periodontics PC John C Vanginkel DDS|1401 Airport Pkwy Ste 110|Cheyenne|82001|WY|(307) 632-4574||
+10:16:26 PM   >>Cheyenne Periodontics PC John C Vanginkel DDS|1275 N 15th St Ste 121|Laramie|82072|WY|(800) 359-4052||
+10:16:26 PM   >>Christensen Grant|414 Gannett Dr|Rock Springs|82901|WY|(307) 382-3326||
+10:16:26 PM   >>Christensen Grant DDS|657 Pilot Butte Ave|Rock Springs|82901|WY|(307) 382-3159||
+10:16:26 PM   >>Christensen Louis R DDS|661 Uinta Dr|Green River|82935|WY|(307) 875-3658||
+10:16:26 PM   >>Christie Ryan DDS|1619 S Park Dr|Cody|82414|WY|(307) 587-6249||
+10:16:27 PM   >>Chronic Fatique Syndrome 24 Hour Helpline And Treatment|Serving the WY Area||||(800) 234-0037||
+10:16:27 PM   >>Cjs Custom Dental Lab|431 N Washington St|Afton|83110|WY|(307) 885-9262||
+10:16:27 PM   >>Clark Edward M DDS|5211 Yellowstone Rd|Cheyenne|82009|WY|(307) 634-7633||
+10:16:27 PM New page detected 'http://www.yellowpages.com/WY/Dentists?page=4'.
+10:16:27 PM Opening 'http://www.yellowpages.com/WY/Dentists?page=4'..............
+10:16:27 PM Navigating to 'http://www.yellowpages.com/WY/Dentists?page=4'.....
+10:16:41 PM Opening 'http://www.yellowpages.com/'..............
+10:16:41 PM Application starting.....
+10:16:41 PM Navigating to 'http://www.yellowpages.com/'.....
+10:16:43 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:16:43 PM Main page detected.
+10:16:43 PM 
+10:16:43 PM 
+10:16:43 PM  Aplication ready.
+10:16:43 PM 
+10:16:51 PM 
+10:16:51 PM Erasing the result grid content....
+10:16:58 PM 
+10:16:58 PM Erasing the result grid content....
+10:17:00 PM 
+10:17:00 PM  Grid erased.
+10:17:00 PM 
+10:17:01 PM   >=======================================================
+10:17:01 PM   Processing state [WY]
+10:17:01 PM   >-------------------------------------------------------
+10:17:01 PM   
+10:17:17 PM 
+10:17:17 PM > > > processing order [1] - Dog Training
+10:17:17 PM Opening 'www.yellowpages.com/WY/Dog-Training'..............
+10:17:17 PM Navigating to 'http://www.yellowpages.com/WY/Dog-Training'.....
+10:17:24 PM Load process completed for 'http://www.yellowpages.com/WY/Dog-Training' - [Categoria]
+10:17:24 PM Analizing result page  'http://www.yellowpages.com/WY/Dog-Training'...
+10:17:24 PM 
+10:17:24 PM  ----- [Page 1 of 1] ------
+10:17:24 PM 
+10:17:25 PM   >>Cody Paw Spa|2544 E|Sheridan|82801|WY|(307) 587-3309||
+10:17:25 PM   >>Cody Paw Spa|2544 E|Sheridan|82801|WY|(307) 587-3309||
+10:17:25 PM   >>Critter Sitters Care| |Casper|82601|WY|(307) 265-4600||
+10:17:25 PM   >>del Cono Sur Kennels|138 Fayette Pole Creek Rd|Pinedale|82941|WY|(307) 367-2687||
+10:17:25 PM   >>Dog Antics Dog Training|2701 Hamilton Dome Rd|Thermopolis|82443|WY|(307) 867-2275||
+10:17:25 PM   >>Dog World|331 W Yellowstone Hwy|Casper|82601|WY|(307) 237-7494||
+10:17:25 PM   >>Leona Ponds Dog Training|35 Harmony Rd|Cody|82414|WY|(307) 527-6689||
+10:17:25 PM   >>Prairie Wind Kennels| |Casper|82601|WY|(307) 277-0075||
+10:17:25 PM   >>Rawhide Kennels & Training Center|Rr 1|Lingle|82223|WY|(307) 837-2837||
+10:17:25 PM   >>Training Made Easy| |Cheyenne|82001|WY|(307) 638-2571||
+10:17:25 PM No more pages detected.
+10:17:25 PM 
+10:17:25 PM Process completed for the present state [WY].
+10:17:25 PM 
+10:17:25 PM 
+10:17:25 PM No more state to be processed.
+10:17:25 PM 
+10:23:35 PM Opening 'http://www.yellowpages.com/'..............
+10:23:35 PM Application starting.....
+10:23:36 PM Navigating to 'http://www.yellowpages.com/'.....
+10:23:38 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:23:38 PM Main page detected.
+10:23:38 PM 
+10:23:38 PM 
+10:23:38 PM  Aplication ready.
+10:23:38 PM 
+10:23:46 PM 
+10:23:46 PM Erasing the result grid content....
+10:23:49 PM 
+10:23:49 PM  Grid erased.
+10:23:49 PM 
+10:23:51 PM   >=======================================================
+10:23:51 PM   Processing state [WY]
+10:23:51 PM   >-------------------------------------------------------
+10:23:51 PM   
+10:23:55 PM 
+10:23:55 PM > > > processing order [1] -  Physicians & Surgeons
+10:23:55 PM Opening 'www.yellowpages.com/WY/-Physicians-Surgeons'..............
+10:23:55 PM Navigating to 'http://www.yellowpages.com/WY/-Physicians-Surgeons'.....
+10:24:05 PM Load process completed for 'http://www.yellowpages.com/WY/-Physicians-Surgeons' - [Categoria]
+10:24:05 PM Analizing result page  'http://www.yellowpages.com/WY/-Physicians-Surgeons'...
+10:24:05 PM 
+10:24:05 PM  ----- [Page 1 of 41] ------
+10:24:05 PM 
+10:24:05 PM   >>Marbleton - Big Piney Clinic|17 W 3rd St|Marbleton|83113|WY|(307) 276-3306||LORRAINEG@WYOMING.COM
+10:24:05 PM   >>Marbleton - Big Piney Clinic|17 W 3rd St|Marbleton|83113|WY|(307) 276-3306||LORRAINEG@WYOMING.COM
+10:24:05 PM   >>Aar Local HIV / STD Testing|2115 E 12th St|Casper|82601|WY|(800) 639-9769||
+10:24:05 PM   >>Aar Local HIV / STD Testing|2115 E 12th St|Casper|82601|WY|(800) 639-9769||
+10:24:05 PM   >>Aar Local HIV / STD Testing|940 E 3rd St|Casper|82601|WY|(800) 639-9769||
+10:24:05 PM   >>Aaron John W III Dpm|1471 Dewar Dr Ste 112|Rock Springs|82901|WY|(307) 382-3257||
+10:24:05 PM   >>ABC Pediatrics LLC|1300 W 4th St|Gillette|82716|WY|(307) 686-4900||
+10:24:05 PM   >>Absaroka Orthopaedics|721 Sheridan Ave Ste 130|Cody|82414|WY|(307) 527-7100||
+10:24:05 PM   >>Absaroka Orthopaedics|450 Mountain View St Bldg D|Powell|82435|WY|(307) 754-7192||
+10:24:05 PM   >>Adams Michael D MD|75 Yellow Creek Rd Ste 102|Evanston|82930|WY|(307) 789-8290||
+10:24:05 PM   >>Adler Jacqueline D MD|1333 W 5th St|Sheridan|82801|WY|(307) 674-0700||
+10:24:05 PM   >>Advanced Aesthetics Medi Spa LLC|1450 E A St Ste 2|Casper|82601|WY|(307) 265-1646||
+10:24:05 PM   >>Advanced Surgical Solutions|1206 W 4th Ave|Gillette|82716|WY|(307) 682-7555||
+10:24:05 PM   >>Allegretto Joseph F MD|109 W Lakeway Rd|Gillette|82718|WY|(307) 682-6222||
+10:24:05 PM   >>Allergy & Asthma Clinic of Wyoming|2222 E 2nd St|Casper|82609|WY|(307) 577-5222||
+10:24:05 PM   >>Allergy & Asthma Clinic of Wyoming|709 W 8th St|Gillette|82716|WY|(800) 826-1135||
+10:24:05 PM   >>Allergy & Asthma Clinic of Wyoming|2222 E 2|Rock Springs|82901|WY|(800) 826-1135||
+10:24:05 PM   >>Allergy & Asthma Clinic of Wyoming LLC|3125 E Grand Ave|Laramie|82070|WY|(307) 742-5515||
+10:24:05 PM   >>Allyn Peter G|3000 College Dr|Rock Springs|82901|WY|(307) 362-1861||
+10:24:05 PM   >>Alpha Ent Clinic|1032 Luke St Fort Collins|Cheyenne|82001|WY|(970) 484-8686||
+10:24:05 PM   >>Alpha Family Medicine Inc|1202 Cleveland Ave|Cheyenne|82001|WY|(307) 632-6403||
+10:24:05 PM   >>Alpha Sleep Center & Alpha Ent Clinic|1032 Luke St|Cheyenne|82001|WY|(800) 454-8686||
+10:24:05 PM   >>Alpine Hearing Care Wyoming Otolaryngology| |Casper|82601|WY|(307) 256-1166||
+10:24:05 PM   >>Ammari Linda K|1300 W 4th St|Gillette|82716|WY|(307) 686-4900||
+10:24:05 PM   >>Ammari Ramzi T MD MD|407 S Medical Arts Ct Ste F|Gillette|82716|WY|(307) 686-7031||
+10:24:05 PM   >>Anderson James A MD FACS|419 S Washington St|Casper|82601|WY|(307) 577-4220||
+10:24:05 PM   >>Andrew M Norris MD MD|2121 E Harmony Rd|Cheyenne|82001|WY|(877) 224-2021||
+10:24:05 PM New page detected 'http://www.yellowpages.com/WY/Physicians-Surgeons?page=2'.
+10:24:05 PM Opening 'http://www.yellowpages.com/WY/Physicians-Surgeons?page=2'..............
+10:24:05 PM Navigating to 'http://www.yellowpages.com/WY/Physicians-Surgeons?page=2'.....
+10:24:28 PM Opening 'http://www.yellowpages.com/'..............
+10:24:28 PM Application starting.....
+10:24:28 PM Navigating to 'http://www.yellowpages.com/'.....
+10:24:30 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:24:30 PM Main page detected.
+10:24:30 PM 
+10:24:30 PM 
+10:24:30 PM  Aplication ready.
+10:24:30 PM 
+10:24:31 PM 
+10:24:31 PM Erasing the result grid content....
+10:24:32 PM 
+10:24:32 PM  Grid erased.
+10:24:32 PM 
+10:24:33 PM   >=======================================================
+10:24:33 PM   Processing state [WY]
+10:24:33 PM   >-------------------------------------------------------
+10:24:33 PM   
+10:26:18 PM 
+10:26:18 PM > > > processing order [1] -  Physicians & Surgeons
+10:26:18 PM Opening 'www.yellowpages.com/WY/Physicians-Surgeons'..............
+10:26:18 PM Navigating to 'http://www.yellowpages.com/WY/Physicians-Surgeons'.....
+10:26:26 PM Load process completed for 'http://www.yellowpages.com/WY/Physicians-Surgeons' - [Categoria]
+10:26:26 PM Analizing result page  'http://www.yellowpages.com/WY/Physicians-Surgeons'...
+10:26:26 PM 
+10:26:26 PM  ----- [Page 1 of 41] ------
+10:26:26 PM 
+10:26:26 PM   >>Marbleton - Big Piney Clinic|17 W 3rd St|Marbleton|83113|WY|(307) 276-3306||LORRAINEG@WYOMING.COM
+10:26:26 PM   >>Marbleton - Big Piney Clinic|17 W 3rd St|Marbleton|83113|WY|(307) 276-3306||LORRAINEG@WYOMING.COM
+10:26:26 PM   >>Aar Local HIV / STD Testing|2115 E 12th St|Casper|82601|WY|(800) 639-9769||
+10:26:26 PM   >>Aar Local HIV / STD Testing|2115 E 12th St|Casper|82601|WY|(800) 639-9769||
+10:26:26 PM   >>Aar Local HIV / STD Testing|940 E 3rd St|Casper|82601|WY|(800) 639-9769||
+10:26:26 PM   >>Aaron John W III Dpm|1471 Dewar Dr Ste 112|Rock Springs|82901|WY|(307) 382-3257||
+10:26:26 PM   >>ABC Pediatrics LLC|1300 W 4th St|Gillette|82716|WY|(307) 686-4900||
+10:26:26 PM   >>Absaroka Orthopaedics|721 Sheridan Ave Ste 130|Cody|82414|WY|(307) 527-7100||
+10:26:26 PM   >>Absaroka Orthopaedics|450 Mountain View St Bldg D|Powell|82435|WY|(307) 754-7192||
+10:26:26 PM   >>Adams Michael D MD|75 Yellow Creek Rd Ste 102|Evanston|82930|WY|(307) 789-8290||
+10:26:26 PM   >>Adler Jacqueline D MD|1333 W 5th St|Sheridan|82801|WY|(307) 674-0700||
+10:26:26 PM   >>Advanced Aesthetics Medi Spa LLC|1450 E A St Ste 2|Casper|82601|WY|(307) 265-1646||
+10:26:26 PM   >>Advanced Surgical Solutions|1206 W 4th Ave|Gillette|82716|WY|(307) 682-7555||
+10:26:26 PM   >>Allegretto Joseph F MD|109 W Lakeway Rd|Gillette|82718|WY|(307) 682-6222||
+10:26:26 PM   >>Allergy & Asthma Clinic of Wyoming|2222 E 2nd St|Casper|82609|WY|(307) 577-5222||
+10:26:26 PM   >>Allergy & Asthma Clinic of Wyoming|709 W 8th St|Gillette|82716|WY|(800) 826-1135||
+10:26:26 PM   >>Allergy & Asthma Clinic of Wyoming|2222 E 2|Rock Springs|82901|WY|(800) 826-1135||
+10:26:26 PM   >>Allergy & Asthma Clinic of Wyoming LLC|3125 E Grand Ave|Laramie|82070|WY|(307) 742-5515||
+10:26:26 PM   >>Allyn Peter G|3000 College Dr|Rock Springs|82901|WY|(307) 362-1861||
+10:26:26 PM   >>Alpha Ent Clinic|1032 Luke St Fort Collins|Cheyenne|82001|WY|(970) 484-8686||
+10:26:26 PM   >>Alpha Family Medicine Inc|1202 Cleveland Ave|Cheyenne|82001|WY|(307) 632-6403||
+10:26:26 PM   >>Alpha Sleep Center & Alpha Ent Clinic|1032 Luke St|Cheyenne|82001|WY|(800) 454-8686||
+10:26:26 PM   >>Alpine Hearing Care Wyoming Otolaryngology| |Casper|82601|WY|(307) 256-1166||
+10:26:26 PM   >>Ammari Linda K|1300 W 4th St|Gillette|82716|WY|(307) 686-4900||
+10:26:26 PM   >>Ammari Ramzi T MD MD|407 S Medical Arts Ct Ste F|Gillette|82716|WY|(307) 686-7031||
+10:26:26 PM   >>Anderson James A MD FACS|419 S Washington St|Casper|82601|WY|(307) 577-4220||
+10:26:26 PM   >>Andrew M Norris MD MD|2121 E Harmony Rd|Cheyenne|82001|WY|(877) 224-2021||
+10:26:27 PM New page detected 'http://www.yellowpages.com/WY/Physicians-Surgeons?page=2'.
+10:26:27 PM Opening 'http://www.yellowpages.com/WY/Physicians-Surgeons?page=2'..............
+10:26:27 PM Navigating to 'http://www.yellowpages.com/WY/Physicians-Surgeons?page=2'.....
+6:37:03 AM Navigating to 'http://www.yellowpages.com/'.....
+6:37:03 AM Opening 'http://www.yellowpages.com/'..............
+6:37:03 AM Application starting.....
+6:37:24 AM =========================================================================================
+6:37:24 AM Error (-2146697208) - http://www.yellowpages.com/
+6:37:24 AM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+6:37:24 AM =========================================================================================
+6:37:24 AM Retrying navegate page 'http://www.yellowpages.com/'
+6:37:24 AM Navigating to 'res://ieframe.dll/navcancl.htm#http://www.yellowpages.com/'.....
+6:37:24 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+6:37:24 AM  --Object 'homePageObj' [Nothing] not found.
+6:37:24 AM Main page missing or invalid.
+6:37:24 AM 
+6:37:24 AM #####################################################################################################
+6:37:24 AM The loaded home page page is invalid.
+6:37:24 AM Please verify if the site is not down at this moment.
+6:37:24 AM #####################################################################################################
+6:37:24 AM 
+6:37:28 AM Application ended.
+7:32:09 AM Navigating to 'http://www.yellowpages.com/'.....
+7:32:10 AM Opening 'http://www.yellowpages.com/'..............
+7:32:10 AM Application starting.....
+7:32:50 AM =========================================================================================
+7:32:50 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+7:32:50 AM =========================================================================================
+7:32:50 AM Opening 'http://www.yellowpages.com/'..............
+7:32:50 AM Navigating to 'http://www.yellowpages.com/'.....
+7:33:24 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+7:33:24 AM Main page detected.
+7:33:24 AM 
+7:33:24 AM 
+7:33:24 AM  Aplication ready.
+7:33:24 AM 
+7:35:40 AM 
+7:35:40 AM Erasing the result grid content....
+7:35:43 AM 
+7:35:43 AM  Grid erased.
+7:35:43 AM 
+7:35:45 AM   >=======================================================
+7:35:45 AM   Processing state [WY]
+7:35:45 AM   >-------------------------------------------------------
+7:35:45 AM   
+7:35:45 AM 
+7:35:45 AM > > > processing order [1] - Automobile Transporters
+7:35:45 AM Opening 'www.yellowpages.com/WY/Automobile-Transporters'..............
+7:35:45 AM Navigating to 'http://www.yellowpages.com/WY/Automobile-Transporters'.....
+7:36:26 AM =========================================================================================
+7:36:26 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/WY/Automobile-Transporters'
+7:36:26 AM =========================================================================================
+7:36:26 AM Opening 'http://www.yellowpages.com/WY/Automobile-Transporters'..............
+7:36:26 AM Navigating to 'http://www.yellowpages.com/WY/Automobile-Transporters'.....
+7:37:07 AM =========================================================================================
+7:37:07 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/WY/Automobile-Transporters'
+7:37:07 AM =========================================================================================
+7:37:07 AM Opening 'http://www.yellowpages.com/WY/Automobile-Transporters'..............
+7:37:07 AM Navigating to 'http://www.yellowpages.com/WY/Automobile-Transporters'.....
+7:37:26 AM 
+7:37:26 AM Searching process interrupted by the user....
+7:37:26 AM 
+7:37:26 AM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Transporters' - [Categoria]
+7:37:26 AM Pending abort request detected.
+7:37:27 AM Application ended.
+7:39:05 AM 
+7:39:05 AM 
+7:39:05 AM 
+7:39:05 AM Navigating to 'http://www.yellowpages.com/'.....
+7:39:06 AM Opening 'http://www.yellowpages.com/'..............
+7:39:06 AM Application starting.....
+7:39:21 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+7:39:21 AM Main page detected.
+7:39:21 AM 
+7:39:21 AM 
+7:39:21 AM  Aplication ready.
+7:39:21 AM 
+7:39:58 AM   >=======================================================
+7:39:58 AM   Processing state [WY]
+7:39:58 AM   >-------------------------------------------------------
+7:39:58 AM   
+7:39:58 AM 
+7:39:58 AM > > > processing order [1] - Automobile Transporters
+7:39:58 AM Opening 'www.yellowpages.com/WY/Automobile-Transporters'..............
+7:39:58 AM Navigating to 'http://www.yellowpages.com/WY/Automobile-Transporters'.....
+7:40:20 AM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Transporters' - [Categoria]
+7:40:20 AM Analizing result page  'http://www.yellowpages.com/WY/Automobile-Transporters'...
+7:40:20 AM 
+7:40:20 AM  ----- [Page 1 of 1] ------
+7:40:20 AM 
+7:40:20 AM   >>Momentum Transport|Serving the WY Area||||(888) 318-6664||
+7:40:20 AM   >>Momentum Transport|Serving the WY Area||||(888) 318-6664||
+7:40:20 AM   >>Associated Transportation Systems Inc|Serving the WY Area||||(888) 424-7406||
+7:40:20 AM   >>Associated Transportation Systems Inc|Serving the WY Area||||(888) 424-7406||
+7:40:20 AM   >>Nationwide Relocation|Serving the WY Area||||(888) 680-2114||
+7:40:20 AM   >>Agape Auto Transport LLC|Serving the WY Area||||(866) 524-9960||info@agapetransport.com
+7:40:20 AM   >>Advantage Auto Transport|Serving the WY Area||||(877) 840-9486||
+7:40:20 AM   >>Allied Automotive Group|Serving the WY Area||||(888) 227-4285||
+7:40:20 AM   >>A A A Pro-Star Auto Transport|26359 Jefferson Ave Ste G|Murrieta|92562|CA|(800) 993-7447||
+7:40:20 AM   >>AAA-Z Affordable Transport|Serving the WY Area||||(800) 262-0008||
+7:40:20 AM   >>Auto Express Nationwide|Serving the WY Area||||(800) 237-7398||autoexpress@embarqmail.com
+7:40:20 AM   >>Express Auto Transport|9772 Princeton-Glendale Rd|West Chester|45246|OH|(800) 480-9189||
+7:40:20 AM   >>Elkorn Hotshot Service| |Mountain View|82939|WY|(307) 237-5810||
+7:40:20 AM   >>Elkorn Hotshot Service| |Mountain View|82939|WY|(307) 237-5810||
+7:40:20 AM   >>M Ad Transportation|2305 Old Salt Creek Rd|Casper|82601|WY|(307) 577-6326||
+7:40:20 AM   >>Moeller Donald & Peggy|Ne Of City|Sundance|82729|WY|(307) 283-2517||
+7:40:20 AM   >>Nebraska Transport Company|119 W 21st Ave|Torrington|82240|WY|(307) 532-7565||
+7:40:20 AM   >>Steve Sharp Transportation|260 E Main St|Cokeville|83114|WY|(307) 279-3063||
+7:40:20 AM No more pages detected.
+7:40:20 AM 
+7:40:20 AM Process completed for the present state [WY].
+7:40:20 AM 
+7:40:20 AM 
+7:40:20 AM No more state to be processed.
+7:40:20 AM 
+7:40:58 AM Navigating to 'http://www.yellowpages.com/'.....
+7:40:59 AM Opening 'http://www.yellowpages.com/'..............
+7:40:59 AM Application starting.....
+7:41:03 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+7:41:03 AM Main page detected.
+7:41:03 AM 
+7:41:03 AM 
+7:41:03 AM  Aplication ready.
+7:41:03 AM 
+7:41:06 AM 
+7:41:06 AM Erasing the result grid content....
+7:41:07 AM 
+7:41:07 AM  Grid erased.
+7:41:07 AM 
+7:41:08 AM 
+7:41:08 AM No more state to be processed.
+7:41:08 AM 
+7:41:10 AM 
+7:41:10 AM Erasing the result grid content....
+7:41:11 AM 
+7:41:11 AM  Grid erased.
+7:41:11 AM 
+7:41:13 AM   >=======================================================
+7:41:13 AM   Processing state [WY]
+7:41:13 AM   >-------------------------------------------------------
+7:41:13 AM   
+7:41:13 AM 
+7:41:13 AM > > > processing order [1] - Limousine Service
+7:41:13 AM Opening 'www.yellowpages.com/WY/Limousine-Service'..............
+7:41:13 AM Navigating to 'http://www.yellowpages.com/WY/Limousine-Service'.....
+7:41:52 AM Load process completed for 'http://www.yellowpages.com/WY/Limousine-Service' - [Categoria]
+7:41:52 AM Analizing result page  'http://www.yellowpages.com/WY/Limousine-Service'...
+7:41:52 AM 
+7:41:52 AM  ----- [Page 1 of 1] ------
+7:41:52 AM 
+7:41:52 AM   >>Limousines.com|Serving the WY Area||||(866) 438-5412||
+7:41:52 AM   >>Limousines.com|Serving the WY Area||||(866) 438-5412||
+7:41:52 AM   >>A Royalty Coach King of The Road| |Bosler|82051|WY|(877) 900-5466||
+7:41:52 AM   >>A Royalty Coach King of The Road| |Bosler|82051|WY|(877) 900-5466||
+7:41:52 AM   >>Aladdin Limousines|1704 N Main St|Sheridan|82801|WY|(307) 672-8812||
+7:41:52 AM   >>Casper Limo| |Casper|82601|WY|(307) 472-7267||
+7:41:52 AM   >>Diamond Limousine Service|680 Rhode Island Pl|Green River|82935|WY|(307) 875-9700||
+7:41:52 AM   >>Godfathers Limo|PO Box 3578|Gillette|82717|WY|(307) 680-8782||
+7:41:52 AM   >>Intrigue Limousine| |Cheyenne|82001|WY|(307) 637-0082||
+7:41:52 AM   >>Rock Bottom Executive Limousin|1551 Frontier Dr|Rock Springs|82901|WY|(307) 362-1966||
+7:41:52 AM   >>Stage Coach Taxi & Limousine|1101 Sage St|Evanston|82930|WY|(307) 255-2352||
+7:41:52 AM   >>TLC Taxi Limousine Company|1808 Oneil Ave|Cheyenne|82001|WY|(307) 635-5555||
+7:41:52 AM   >>Yellow Cab|1505 S Greeley Hwy|Cheyenne|82007|WY|(307) 433-1661||
+7:41:52 AM No more pages detected.
+7:41:52 AM 
+7:41:52 AM Process completed for the present state [WY].
+7:41:52 AM 
+7:41:52 AM 
+7:41:52 AM No more state to be processed.
+7:41:52 AM 
+7:42:04 AM Application ended.
+6:35:29 AM 
+6:35:29 AM 
+6:35:29 AM 
+6:35:29 AM Opening 'http://www.yellowpages.com/'..............
+6:35:29 AM Application starting.....
+6:35:29 AM Navigating to 'http://www.yellowpages.com/'.....
+6:35:47 AM =========================================================================================
+6:35:47 AM Error (-2146697208) - http://www.yellowpages.com/
+6:35:47 AM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+6:35:47 AM =========================================================================================
+6:35:47 AM Retrying navegate page 'http://www.yellowpages.com/'
+6:35:59 AM Opening 'http://www.yellowpages.com/'..............
+6:36:27 AM Application ended.
+7:26:21 AM Opening 'http://www.yellowpages.com/'..............
+7:26:21 AM Application starting.....
+7:26:21 AM Navigating to 'http://www.yellowpages.com/'.....
+7:27:02 AM =========================================================================================
+7:27:02 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http:///'
+7:27:02 AM =========================================================================================
+7:27:02 AM Opening 'http:///'..............
+7:27:02 AM Blocking url 'http:///'.....
+7:27:16 AM Application ended.
+7:28:58 AM Opening 'http://www.yellowpages.com/'..............
+7:28:58 AM Application starting.....
+7:28:58 AM Navigating to 'http://www.yellowpages.com/'.....
+7:29:39 AM =========================================================================================
+7:29:39 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http:///'
+7:29:39 AM =========================================================================================
+7:29:39 AM Opening 'http:///'..............
+7:29:39 AM Blocking url 'http:///'.....
+7:29:40 AM Application ended.
+7:29:44 AM 
+7:29:44 AM 
+7:29:44 AM 
+7:29:44 AM Opening 'http://www.yellowpages.com/'..............
+7:29:44 AM Application starting.....
+7:29:44 AM Navigating to 'http://www.yellowpages.com/'.....
+7:30:25 AM =========================================================================================
+7:30:25 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+7:30:25 AM =========================================================================================
+7:30:25 AM Opening 'http://www.yellowpages.com/'..............
+7:30:25 AM Navigating to 'http://www.yellowpages.com/'.....
+7:30:34 AM Application ended.
+7:56:34 AM Opening 'http://www.yellowpages.com/'..............
+7:56:34 AM Application starting.....
+7:56:34 AM Navigating to 'http://www.yellowpages.com/'.....
+7:56:35 AM =========================================================================================
+7:56:35 AM Error (-2146697211) - http://www.yellowpages.com/
+7:56:35 AM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+7:56:35 AM =========================================================================================
+7:56:35 AM Retrying navegate page 'http://www.yellowpages.com/'
+7:56:47 AM Opening 'http://www.yellowpages.com/'..............
+7:57:22 AM Application ended.
+7:57:28 AM Opening 'http://www.yellowpages.com/'..............
+7:57:28 AM Application starting.....
+7:57:28 AM Navigating to 'http://www.yellowpages.com/'.....
+7:57:29 AM =========================================================================================
+7:57:29 AM Error (-2146697211) - http://www.yellowpages.com/
+7:57:29 AM INET_E_RESOURCE_NOT_FOUND (0x800C0005L) - The server or proxy was not found.
+7:57:29 AM =========================================================================================
+7:57:29 AM Retrying navegate page 'http://www.yellowpages.com/'
+7:57:33 AM Application ended.
+7:59:47 AM Opening 'http://www.yellowpages.com/'..............
+7:59:47 AM Application starting.....
+7:59:47 AM Navigating to 'http://www.yellowpages.com/'.....
+8:00:28 AM =========================================================================================
+8:00:28 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http:///'
+8:00:28 AM =========================================================================================
+8:00:28 AM Opening 'http:///'..............
+8:00:28 AM Blocking url 'http:///'.....
+8:11:15 AM Application ended.
+8:22:40 AM Opening 'http://www.yellowpages.com/'..............
+8:22:40 AM Application starting.....
+8:22:40 AM Navigating to 'http://www.yellowpages.com/'.....
+8:22:51 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:22:51 AM Main page detected.
+8:22:51 AM 
+8:22:51 AM 
+8:22:51 AM  Aplication ready.
+8:22:51 AM 
+8:24:02 AM 
+8:24:02 AM Erasing the result grid content....
+8:24:04 AM 
+8:24:04 AM  Grid erased.
+8:24:04 AM 
+8:24:06 AM   >=======================================================
+8:24:07 AM   Processing state [WY]
+8:24:07 AM   >-------------------------------------------------------
+8:24:07 AM   
+8:24:07 AM 
+8:24:07 AM > > > processing order [1] - limousine services
+8:24:07 AM Opening 'www.yellowpages.com/WY/limousine-services'..............
+8:24:07 AM Navigating to 'http://www.yellowpages.com/WY/limousine-services'.....
+8:24:13 AM Load process completed for 'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=limousine-services' - [Categoria]
+8:24:13 AM Analizing result page  'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=limousine-services'...
+8:24:13 AM  --Object 'detail_counterDetect' [Nothing] not found.
+8:24:13 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+8:24:13 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+8:24:13 AM No more pages detected.
+8:24:13 AM 
+8:24:13 AM > > > processing order [1] - car transporters
+8:24:13 AM 
+8:24:13 AM Searching for 'car transporters'....
+8:24:13 AM Opening 'www.yellowpages.com/WY/car-transporters'..............
+8:24:13 AM Navigating to 'http://www.yellowpages.com/WY/car-transporters'.....
+8:24:17 AM Load process completed for 'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=car-transporters' - [Analisis]
+8:24:17 AM Analizing result for 'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=car-transporters'...
+8:24:17 AM  --Object 'detail_counterDetect' [Nothing] not found.
+8:24:17 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+8:24:17 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+8:24:17 AM No more pages detected.
+8:24:17 AM 
+8:24:17 AM Process completed for the present state [WY].
+8:24:17 AM 
+8:24:17 AM 
+8:24:17 AM No more state to be processed.
+8:24:17 AM 
+8:40:24 AM 
+8:40:24 AM 
+8:40:24 AM 
+8:40:24 AM Opening 'http://www.yellowpages.com/'..............
+8:40:24 AM Application starting.....
+8:40:24 AM Navigating to 'http://www.yellowpages.com/'.....
+8:40:49 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:40:49 AM Main page detected.
+8:40:49 AM 
+8:40:49 AM 
+8:40:49 AM  Aplication ready.
+8:40:49 AM 
+8:41:05 AM 
+8:41:05 AM No more state to be processed.
+8:41:05 AM 
+8:41:08 AM   >=======================================================
+8:41:08 AM   Processing state [WY]
+8:41:08 AM   >-------------------------------------------------------
+8:41:08 AM   
+8:41:08 AM 
+8:41:08 AM > > > processing order [1] - limousine services
+8:41:08 AM Opening 'www.yellowpages.com/WY/limousine-services'..............
+8:41:08 AM Navigating to 'http://www.yellowpages.com/WY/limousine-services'.....
+8:41:49 AM =========================================================================================
+8:41:49 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=limousine-services'
+8:41:49 AM =========================================================================================
+8:41:49 AM Opening 'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=limousine-services'..............
+8:41:49 AM Load process completed for 'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=limousine-services' - [Categoria]
+8:41:49 AM Analizing result page  'http://www.yellowpages.com/no-results?geo_location_terms=WY&search_context=limousine-services'...
+8:41:49 AM  --Object 'detail_counterDetect' [Nothing] not found.
+8:41:49 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+8:41:49 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+8:41:49 AM No more pages detected.
+8:41:49 AM 
+8:41:49 AM > > > processing order [1] - car transporters
+8:41:49 AM 
+8:41:49 AM Searching for 'car transporters'....
+8:41:49 AM Opening 'www.yellowpages.com/WY/car-transporters'..............
+8:41:49 AM Navigating to 'http://www.yellowpages.com/WY/car-transporters'.....
+8:42:29 AM Opening 'http://www.yellowpages.com/'..............
+8:42:29 AM Application starting.....
+8:42:29 AM Navigating to 'http://www.yellowpages.com/'.....
+8:42:44 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:42:44 AM Main page detected.
+8:42:44 AM 
+8:42:44 AM 
+8:42:44 AM  Aplication ready.
+8:42:44 AM 
+8:43:34 AM   >=======================================================
+8:43:34 AM   Processing state [WY]
+8:43:34 AM   >-------------------------------------------------------
+8:43:34 AM   
+8:46:54 AM 
+8:46:54 AM      > car transporters
+8:46:54 AM 
+8:46:54 AM 
+8:46:54 AM Opening 'http://www.yellowpages.com/'..............
+8:46:54 AM Application starting.....
+8:46:54 AM Navigating to 'http://www.yellowpages.com/'.....
+8:47:14 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:47:14 AM Main page detected.
+8:47:14 AM 
+8:47:14 AM  Last url restored http://www.yellowpages.com/WY/Limousine-Service
+8:47:14 AM  Last category restored car transporters
+8:47:14 AM 
+8:47:14 AM ---------------------------------------------------------------------------------
+8:47:14 AM 
+8:47:14 AM  All information about previous session was restored and it is ready to continue.
+8:47:14 AM 
+8:47:14 AM ---------------------------------------------------------------------------------
+8:47:14 AM 
+8:47:14 AM 
+8:47:14 AM 
+8:47:14 AM  Aplication ready.
+8:47:14 AM 
+8:47:23 AM Error -2147010889 - The requested lookup key was not found in any active activation context.
+8:47:23 AM Opening 'http://www.yellowpages.com/'..............
+8:47:23 AM Navigating to 'http://www.yellowpages.com/'.....
+8:47:34 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:47:34 AM Main page detected.
+8:47:34 AM 
+8:47:34 AM  Last url restored http://www.yellowpages.com/WY/Limousine-Service
+8:47:34 AM  Last category restored car transporters
+8:47:34 AM 
+8:47:34 AM ---------------------------------------------------------------------------------
+8:47:34 AM 
+8:47:34 AM  All information about previous session was restored and it is ready to continue.
+8:47:34 AM 
+8:47:34 AM ---------------------------------------------------------------------------------
+8:47:34 AM 
+8:47:34 AM 
+8:47:34 AM 
+8:47:34 AM  Aplication ready.
+8:47:34 AM 
+8:47:34 AM Error [9] in procedure analisisPaginaInicial - Formulario 'frmMain'
+
+Generated by: RACYellowPages
+Description : Subscript out of range
+
+8:47:40 AM Application ended.
+8:47:45 AM Opening 'http://www.yellowpages.com/'..............
+8:47:45 AM Application starting.....
+8:47:45 AM Navigating to 'http://www.yellowpages.com/'.....
+8:48:04 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:48:04 AM Main page detected.
+8:48:04 AM 
+8:48:04 AM 
+8:48:04 AM  Aplication ready.
+8:48:04 AM 
+8:48:07 AM   >=======================================================
+8:48:07 AM   Processing state [WY]
+8:48:07 AM   >-------------------------------------------------------
+8:48:08 AM   
+8:48:08 AM 
+8:48:08 AM > > > processing order [1] - limousine services
+8:48:08 AM Opening 'www.yellowpages.com/search?search_terms=limousine-services&geo_location_terms=WY'..............
+8:48:08 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine-services&geo_location_terms=WY'.....
+8:48:49 AM =========================================================================================
+8:48:49 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine-services'
+8:48:49 AM =========================================================================================
+8:48:49 AM Opening 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine-services'..............
+8:48:49 AM Load process completed for 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine-services' - [Categoria]
+8:48:49 AM Analizing result page  'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine-services'...
+8:48:49 AM 
+8:48:49 AM  ----- [Page 1 of 1] ------
+8:48:49 AM 
+8:48:49 AM   >>Limousines.com|Serving the WY Area||||(866) 438-5412||
+8:48:49 AM   >>Limousines.com|Serving the WY Area||||(866) 438-5412||
+8:48:49 AM   >>Prompt Charters|Serving the WY Area||||(800) 572-6408||
+8:48:49 AM   >>Prompt Charters|Serving the WY Area||||(800) 572-6408||
+8:48:49 AM   >>A Royalty Coach King of The Road| |Bosler|82051|WY|(877) 900-5466||
+8:48:49 AM   >>A Royalty Coach King of The Road| |Bosler|82051|WY|(877) 900-5466||
+8:48:49 AM   >>Aladdin Limousines|1704 N Main St|Sheridan|82801|WY|(307) 672-8812||
+8:48:49 AM   >>Casper Limo| |Casper|82601|WY|(307) 472-7267||
+8:48:49 AM   >>Diamond Limousine Service|680 Rhode Island Pl|Green River|82935|WY|(307) 875-9700||
+8:48:49 AM   >>Godfathers Limo|PO Box 3578|Gillette|82717|WY|(307) 680-8782||
+8:48:49 AM   >>Intrigue Limousine| |Cheyenne|82001|WY|(307) 637-0082||
+8:48:49 AM   >>Rock Bottom Executive Limousin|1551 Frontier Dr|Rock Springs|82901|WY|(307) 362-1966||
+8:48:49 AM   >>Stage Coach Taxi & Limousine|1101 Sage St|Evanston|82930|WY|(307) 255-2352||
+8:48:49 AM   >>TLC Taxi Limousine Company|1808 Oneil Ave|Cheyenne|82001|WY|(307) 635-5555||
+8:48:49 AM   >>Yellow Cab|1505 S Greeley Hwy|Cheyenne|82007|WY|(307) 433-1661||
+8:48:49 AM No more pages detected.
+8:48:49 AM 
+8:48:49 AM > > > processing order [1] - car transporters
+8:48:49 AM 
+8:48:49 AM Searching for 'car transporters'....
+8:48:49 AM Opening 'www.yellowpages.com/search?search_terms=car-transporters&geo_location_terms=WY'..............
+8:48:49 AM Navigating to 'http://www.yellowpages.com/search?search_terms=car-transporters&geo_location_terms=WY'.....
+8:49:30 AM =========================================================================================
+8:49:30 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car-transporters'
+8:49:30 AM =========================================================================================
+8:49:30 AM Opening 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car-transporters'..............
+8:49:30 AM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car-transporters' - [Analisis]
+8:49:30 AM Analizing result for 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car-transporters'...
+8:49:30 AM 
+8:49:30 AM  ----- [Page 1 of 1] ------
+8:49:30 AM 
+8:49:30 AM   >>Momentum Transport|Serving the WY Area||||(888) 318-6664||
+8:49:30 AM   >>Momentum Transport|Serving the WY Area||||(888) 318-6664||
+8:49:30 AM   >>Associated Transportation Systems Inc|Serving the WY Area||||(888) 424-7406||
+8:49:30 AM   >>Associated Transportation Systems Inc|Serving the WY Area||||(888) 424-7406||
+8:49:30 AM   >>Nationwide Relocation|Serving the WY Area||||(888) 680-2114||
+8:49:30 AM   >>Agape Auto Transport LLC|Serving the WY Area||||(866) 524-9960||info@agapetransport.com
+8:49:30 AM   >>Advantage Auto Transport|Serving the WY Area||||(877) 840-9486||
+8:49:30 AM   >>Allied Automotive Group|Serving the WY Area||||(888) 227-4285||
+8:49:31 AM   >>A A A Pro-Star Auto Transport|26359 Jefferson Ave Ste G|Murrieta|92562|CA|(800) 993-7447||
+8:49:31 AM   >>AAA-Z Affordable Transport|Serving the WY Area||||(800) 262-0008||
+8:49:31 AM   >>Auto Express Nationwide|Serving the WY Area||||(800) 237-7398||autoexpress@embarqmail.com
+8:49:31 AM   >>Express Auto Transport|9772 Princeton-Glendale Rd|West Chester|45246|OH|(800) 480-9189||
+8:49:31 AM   >>Elkorn Hotshot Service| |Mountain View|82939|WY|(307) 237-5810||
+8:49:31 AM   >>Elkorn Hotshot Service| |Mountain View|82939|WY|(307) 237-5810||
+8:49:31 AM   >>M Ad Transportation|2305 Old Salt Creek Rd|Casper|82601|WY|(307) 577-6326||
+8:49:31 AM   >>Moeller Donald & Peggy|Ne Of City|Sundance|82729|WY|(307) 283-2517||
+8:49:31 AM   >>Nebraska Transport Company|119 W 21st Ave|Torrington|82240|WY|(307) 532-7565||
+8:49:31 AM   >>Steve Sharp Transportation|260 E Main St|Cokeville|83114|WY|(307) 279-3063||
+8:49:31 AM No more pages detected.
+8:49:31 AM 
+8:49:31 AM Process completed for the present state [WY].
+8:49:31 AM 
+8:49:31 AM 
+8:49:31 AM No more state to be processed.
+8:49:31 AM 
+8:49:31 AM Navigating to 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car-transporters'.....
+8:50:14 AM Opening 'http://www.yellowpages.com/'..............
+8:50:14 AM Application starting.....
+8:50:14 AM Navigating to 'http://www.yellowpages.com/'.....
+8:50:34 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:50:34 AM Main page detected.
+8:50:34 AM 
+8:50:34 AM 
+8:50:34 AM  Aplication ready.
+8:50:34 AM 
+8:51:21 AM Opening 'http://www.yellowpages.com/'..............
+8:51:21 AM Application starting.....
+8:51:21 AM Navigating to 'http://www.yellowpages.com/'.....
+8:53:09 AM Opening 'http://www.yellowpages.com/'..............
+8:53:09 AM Application starting.....
+8:53:09 AM Navigating to 'http://www.yellowpages.com/'.....
+8:53:39 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:53:39 AM Main page detected.
+8:53:39 AM 
+8:53:39 AM 
+8:53:39 AM  Aplication ready.
+8:53:39 AM 
+8:53:48 AM   >=======================================================
+8:53:48 AM   Processing state [WY]
+8:53:48 AM   >-------------------------------------------------------
+8:53:48 AM   
+8:55:44 AM 
+8:55:44 AM > > > processing order [1] - car transporters
+8:55:44 AM Opening 'www.yellowpages.com/search?search_terms=car+transporters&geo_location_terms=WY'..............
+8:55:44 AM Navigating to 'http://www.yellowpages.com/search?search_terms=car+transporters&geo_location_terms=WY'.....
+8:56:25 AM =========================================================================================
+8:56:25 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car+transporters'
+8:56:25 AM =========================================================================================
+8:56:25 AM Opening 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car+transporters'..............
+8:56:25 AM Load process completed for 'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car+transporters' - [Categoria]
+8:56:25 AM Analizing result page  'http://www.yellowpages.com/WY/Automobile-Transporters?search_terms=car+transporters'...
+8:56:25 AM 
+8:56:25 AM  ----- [Page 1 of 1] ------
+8:56:25 AM 
+8:56:25 AM   >>Momentum Transport|Serving the WY Area||||(888) 318-6664||
+8:56:25 AM   >>Momentum Transport|Serving the WY Area||||(888) 318-6664||
+8:56:25 AM   >>Associated Transportation Systems Inc|Serving the WY Area||||(888) 424-7406||
+8:56:25 AM   >>Associated Transportation Systems Inc|Serving the WY Area||||(888) 424-7406||
+8:56:25 AM   >>Nationwide Relocation|Serving the WY Area||||(888) 680-2114||
+8:56:25 AM   >>Agape Auto Transport LLC|Serving the WY Area||||(866) 524-9960||info@agapetransport.com
+8:56:25 AM   >>Advantage Auto Transport|Serving the WY Area||||(877) 840-9486||
+8:56:25 AM   >>Allied Automotive Group|Serving the WY Area||||(888) 227-4285||
+8:56:25 AM   >>A A A Pro-Star Auto Transport|26359 Jefferson Ave Ste G|Murrieta|92562|CA|(800) 993-7447||
+8:56:25 AM   >>AAA-Z Affordable Transport|Serving the WY Area||||(800) 262-0008||
+8:56:25 AM   >>Auto Express Nationwide|Serving the WY Area||||(800) 237-7398||autoexpress@embarqmail.com
+8:56:25 AM   >>Express Auto Transport|9772 Princeton-Glendale Rd|West Chester|45246|OH|(800) 480-9189||
+8:56:25 AM   >>Elkorn Hotshot Service| |Mountain View|82939|WY|(307) 237-5810||
+8:56:25 AM   >>Elkorn Hotshot Service| |Mountain View|82939|WY|(307) 237-5810||
+8:56:25 AM   >>M Ad Transportation|2305 Old Salt Creek Rd|Casper|82601|WY|(307) 577-6326||
+8:56:25 AM   >>Moeller Donald & Peggy|Ne Of City|Sundance|82729|WY|(307) 283-2517||
+8:56:25 AM   >>Nebraska Transport Company|119 W 21st Ave|Torrington|82240|WY|(307) 532-7565||
+8:56:25 AM   >>Steve Sharp Transportation|260 E Main St|Cokeville|83114|WY|(307) 279-3063||
+8:56:25 AM No more pages detected.
+8:56:25 AM 
+8:56:25 AM > > > processing order [1] - limousine services
+8:56:25 AM 
+8:56:25 AM Searching for 'limousine services'....
+8:56:25 AM Opening 'www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=WY'..............
+8:56:25 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=WY'.....
+8:57:06 AM =========================================================================================
+8:57:06 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine+services'
+8:57:06 AM =========================================================================================
+8:57:06 AM Opening 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine+services'..............
+8:57:06 AM Load process completed for 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine+services' - [Analisis]
+8:57:06 AM Analizing result for 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine+services'...
+8:57:06 AM 
+8:57:06 AM  ----- [Page 1 of 1] ------
+8:57:06 AM 
+8:57:06 AM   >>Limousines.com|Serving the WY Area||||(866) 438-5412||
+8:57:06 AM   >>Limousines.com|Serving the WY Area||||(866) 438-5412||
+8:57:07 AM   >>Prompt Charters|Serving the WY Area||||(800) 572-6408||
+8:57:07 AM   >>Prompt Charters|Serving the WY Area||||(800) 572-6408||
+8:57:07 AM   >>A Royalty Coach King of The Road| |Bosler|82051|WY|(877) 900-5466||
+8:57:07 AM   >>A Royalty Coach King of The Road| |Bosler|82051|WY|(877) 900-5466||
+8:57:07 AM   >>Aladdin Limousines|1704 N Main St|Sheridan|82801|WY|(307) 672-8812||
+8:57:07 AM   >>Casper Limo| |Casper|82601|WY|(307) 472-7267||
+8:57:07 AM   >>Diamond Limousine Service|680 Rhode Island Pl|Green River|82935|WY|(307) 875-9700||
+8:57:07 AM   >>Godfathers Limo|PO Box 3578|Gillette|82717|WY|(307) 680-8782||
+8:57:07 AM   >>Intrigue Limousine| |Cheyenne|82001|WY|(307) 637-0082||
+8:57:07 AM   >>Rock Bottom Executive Limousin|1551 Frontier Dr|Rock Springs|82901|WY|(307) 362-1966||
+8:57:07 AM   >>Stage Coach Taxi & Limousine|1101 Sage St|Evanston|82930|WY|(307) 255-2352||
+8:57:07 AM   >>TLC Taxi Limousine Company|1808 Oneil Ave|Cheyenne|82001|WY|(307) 635-5555||
+8:57:07 AM   >>Yellow Cab|1505 S Greeley Hwy|Cheyenne|82007|WY|(307) 433-1661||
+8:57:07 AM No more pages detected.
+8:57:07 AM 
+8:57:07 AM Process completed for the present state [WY].
+8:57:07 AM 
+8:57:07 AM 
+8:57:07 AM No more state to be processed.
+8:57:07 AM 
+8:57:07 AM Navigating to 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine+services'.....
+8:57:59 AM Load process completed for 'http://www.yellowpages.com/WY/Limousine-Service?search_terms=limousine+services' - [Analisis]
+8:57:59 AM Pending abort request detected.
+8:58:26 AM 
+8:58:26 AM Erasing the result grid content....
+8:58:28 AM 
+8:58:28 AM  Grid erased.
+8:58:28 AM 
+8:58:32 AM 
+8:58:32 AM No more state to be processed.
+8:58:32 AM 
+8:58:43 AM Application ended.
+8:59:20 AM Opening 'http://www.yellowpages.com/'..............
+8:59:20 AM Application starting.....
+8:59:20 AM Navigating to 'http://www.yellowpages.com/'.....
+8:59:39 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+8:59:39 AM Main page detected.
+8:59:39 AM 
+8:59:39 AM 
+8:59:39 AM  Aplication ready.
+8:59:39 AM 
+8:59:46 AM   >=======================================================
+8:59:46 AM   Processing state [CT]
+8:59:46 AM   >-------------------------------------------------------
+8:59:46 AM   
+8:59:49 AM 
+8:59:49 AM > > > processing order [1] - car transporters
+8:59:49 AM Opening 'www.yellowpages.com/search?search_terms=car+transporters&geo_location_terms=CT'..............
+8:59:49 AM Navigating to 'http://www.yellowpages.com/search?search_terms=car+transporters&geo_location_terms=CT'.....
+9:00:30 AM =========================================================================================
+9:00:30 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/CT/Automobile-Transporters?search_terms=car+transporters'
+9:00:30 AM =========================================================================================
+9:00:30 AM Opening 'http://www.yellowpages.com/CT/Automobile-Transporters?search_terms=car+transporters'..............
+9:00:30 AM Load process completed for 'http://www.yellowpages.com/CT/Automobile-Transporters?search_terms=car+transporters' - [Categoria]
+9:00:30 AM Analizing result page  'http://www.yellowpages.com/CT/Automobile-Transporters?search_terms=car+transporters'...
+9:00:30 AM 
+9:00:30 AM  ----- [Page 1 of 2] ------
+9:00:30 AM 
+9:00:30 AM   >>Momentum Transport|Serving the CT Area||||(888) 318-6664||
+9:00:30 AM   >>Momentum Transport|Serving the CT Area||||(888) 318-6664||
+9:00:30 AM   >>Associated Transportation Systems Inc|Serving the CT Area||||(888) 424-7406||
+9:00:30 AM   >>Associated Transportation Systems Inc|Serving the CT Area||||(888) 424-7406||
+9:00:30 AM   >>Nationwide Relocation|Serving the CT Area||||(888) 680-2114||
+9:00:30 AM   >>Agape Auto Transport LLC|Serving the CT Area||||(866) 524-9960||info@agapetransport.com
+9:00:30 AM   >>Advantage Auto Transport|Serving the CT Area||||(877) 840-9486||
+9:00:30 AM   >>Allied Automotive Group|Serving the CT Area||||(888) 227-4285||
+9:00:30 AM   >>A Designated Driver|Serving the CT Area||||(203) 488-1333||j.gariepy@comcast.net
+9:00:30 AM   >>A A A Pro-Star Auto Transport|26359 Jefferson Ave Ste G|Murrieta|92562|CA|(800) 993-7447||
+9:00:30 AM   >>AAA-Z Affordable Transport|Serving the CT Area||||(800) 262-0008||
+9:00:30 AM   >>Auto Express Nationwide|Serving the CT Area||||(800) 237-7398||autoexpress@embarqmail.com
+9:00:30 AM   >>A. Duie Pyle Inc.|87 Aircraft Rd|Southington|06489|CT|(860) 628-8989||
+9:00:30 AM   >>A. Duie Pyle Inc.|87 Aircraft Rd|Southington|06489|CT|(860) 628-8989||
+9:00:30 AM   >>A Eastern Connection Inc| |New Britain|06050|CT|(800) 456-4194||
+9:00:30 AM   >>A Eastern Connection Inc| |Guilford|06437|CT|(866) 379-9510||
+9:00:30 AM   >>A New England van Lines of Ct Inc| |Glastonbury|06033|CT|(860) 633-0060||
+9:00:30 AM   >>A New England van Lines of Ct Incorporated|907 Albany Ave|Hartford|06112|CT|(860) 560-2700||
+9:00:30 AM   >>A-AAA Auto Transport Inc.|83 Morgan St|Stamford|06905|CT|(203) 363-0500||
+9:00:30 AM   >>All States Auto Transport| |Torrington|06790|CT|(800) 551-4315||
+9:00:30 AM   >>All-Wayz Transport LLC|62 Lucy Cir|Wallingford|06492|CT|(203) 537-7055||
+9:00:30 AM   >>AMA Transportation|1009 Middletown Av|North Branford|06471|CT|(203) 234-6287||
+9:00:30 AM   >>Andrade Auto Carriers LLC|975 Campbell Ave|West Haven|06516|CT|(203) 932-6061||
+9:00:30 AM   >>Apple Auto Transport|50 Hillside St Apt C22|East Hartford|06108|CT|(860) 289-0665||
+9:00:30 AM   >>Auto Transport Limited|21 Gramar Ave|Prospect|06712|CT|(203) 758-5714||
+9:00:30 AM   >>Auto Transport Ltd.|21 Gramar Ave|Prospect|06712|CT|(800) 525-3384||
+9:00:30 AM   >>Auto Transport Torrington|49 Mcdermott Ave|Torrington|06790|CT|(860) 618-0060||
+9:00:30 AM New page detected 'http://www.yellowpages.com/CT/Automobile-Transporters?page=2&search_terms=car+transporters'.
+9:00:30 AM Opening 'http://www.yellowpages.com/CT/Automobile-Transporters?page=2&search_terms=car+transporters'..............
+9:00:30 AM Navigating to 'http://www.yellowpages.com/CT/Automobile-Transporters?page=2&search_terms=car+transporters'.....
+9:01:11 AM =========================================================================================
+9:01:11 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/CT/Automobile-Transporters?page=2&search_terms=car+transporters'
+9:01:11 AM =========================================================================================
+9:01:11 AM Opening 'http://www.yellowpages.com/CT/Automobile-Transporters?page=2&search_terms=car+transporters'..............
+9:01:11 AM Load process completed for 'http://www.yellowpages.com/CT/Automobile-Transporters?page=2&search_terms=car+transporters' - [Busqueda]
+9:01:11 AM Starting Analisis for ''....
+9:01:11 AM  --Object 'detail_counterDetect' [Nothing] not found.
+9:01:11 AM   >>Express Auto Transport|9772 Princeton-Glendale Rd|West Chester|45246|OH|(800) 480-9189||
+9:01:11 AM   >>Express Auto Transport|9772 Princeton-Glendale Rd|West Chester|45246|OH|(800) 480-9189||
+9:01:11 AM   >>B & J Auto Transport|110 Main St|Broad Brook|06016|CT|(860) 623-4760||
+9:01:11 AM   >>B & J Auto Transport|110 Main St|Broad Brook|06016|CT|(860) 623-4760||
+9:01:11 AM   >>B & J Auto Transport|44 Bridge St|East Windsor|06088|CT|(860) 623-4760||
+9:01:11 AM   >>Bailey's Express Inc trucking|61 Industrial Park Rd|Middletown|06457|CT|(860) 632-0388||
+9:01:11 AM   >>CAM Auto Services LLC|176 Kelsey St|Newington|06111|CT|(860) 436-6208||
+9:01:11 AM   >>Caron Auto Transport| |East Hartford|06108|CT|(800) 729-7767||
+9:01:11 AM   >>Caron Auto Transport|13 John Fitch Blvd|East Hartford|06108|CT|(860) 528-6549||
+9:01:11 AM   >>Coastal Carriers|45 Industry Dr|West Haven|06516|CT|(203) 934-5274||
+9:01:11 AM   >>Cottrell James P Jr|4 Horton Pl|West Haven|06516|CT|(203) 931-9928||
+9:01:11 AM   >>DT Transport|Serving the CT Area||||(860) 564-3558||
+9:01:11 AM   >>E Auto Ship| |Hartford|06105|CT|(800) 424-8785||
+9:01:11 AM   >>Jrs Auto Transprt| |Hartford|06101|CT|(860) 587-3315||
+9:01:11 AM   >>Kenny Rooke Auto Transport|14 S Bigelow Rd|Hampton|06247|CT|(860) 455-9822||
+9:01:11 AM   >>Lippincott Van Lines|Serving the CT Area||||(203) 484-4779||
+9:01:11 AM   >>Lippincott van Lines| |Northford|06472|CT|(203) 484-4779||
+9:01:11 AM   >>Marshall's Express Inc|205 Greenwich Ave|Stamford|06902|CT|(203) 325-3745||
+9:01:11 AM   >>Petruzzello Transport Inc.|Amity Rd|Bethany|06524|CT|(203) 393-1770||
+9:01:11 AM   >>Saindon Transport LLC|76 Kelsey St # C|Newington|06111|CT|(860) 828-0388||
+9:01:11 AM   >>Schatz Transport Incorporated|Route 6|Columbia|06237|CT|(860) 228-1438||
+9:01:11 AM   >>T & S Industry Inc.|60 Whiting St|New Britain|06051|CT|(860) 229-9846||
+9:01:11 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:01:11 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:01:11 AM No more pages detected.
+9:01:11 AM 
+9:01:11 AM > > > processing order [1] - limousine services
+9:01:11 AM 
+9:01:11 AM Searching for 'limousine services'....
+9:01:11 AM Opening 'www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'..............
+9:01:11 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'.....
+9:01:52 AM =========================================================================================
+9:01:52 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'
+9:01:52 AM =========================================================================================
+9:01:52 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'..............
+9:01:52 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services' - [Analisis]
+9:01:52 AM Analizing result for 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'...
+9:01:52 AM 
+9:01:52 AM  ----- [Page 1 of 30] ------
+9:01:52 AM 
+9:01:52 AM   >>Elite Limousine|Serving the CT Area||||(203) 853-9666||
+9:01:52 AM   >>Elite Limousine|Serving the CT Area||||(203) 853-9666||
+9:01:52 AM   >>Limousines.com|Serving the CT Area||||(866) 438-5412||
+9:01:52 AM   >>Accurate Limousine Service| |Stamford|06905|CT|(203) 322-4582||acculimo@optonline.net
+9:01:52 AM   >>Rudy's Limousine|85 Old Long Ridge Rd|Stamford|06903|CT|(800) 243-7839||
+9:01:52 AM   >>O'Donnell Limousine|Serving the CT Area||||(203) 844-0132||
+9:01:52 AM   >>Prompt Charters|Serving the CT Area||||(800) 572-6408||
+9:01:52 AM New page detected 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'.
+9:01:52 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'..............
+9:01:52 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'.....
+9:02:33 AM =========================================================================================
+9:02:33 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'
+9:02:33 AM =========================================================================================
+9:02:33 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'..............
+9:02:33 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services' - [Busqueda]
+9:02:33 AM Starting Analisis for ''....
+9:02:33 AM  --Object 'detail_counterDetect' [Nothing] not found.
+9:02:33 AM   >>Connecticut Limousine|Serving the CT Area||||(800) 320-7298||
+9:02:33 AM   >>Connecticut Limousine|Serving the CT Area||||(800) 320-7298||
+9:02:33 AM   >>Future Century Limousine|Serving the CT Area||||(203) 604-9003||info@futurelivery.com
+9:02:33 AM   >>J & M LImousine|915 Bridgeport Av|Milford|06460|CT|(866) 837-5466||
+9:02:33 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:02:33 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:02:33 AM No more pages detected.
+9:02:33 AM 
+9:02:33 AM Process completed for the present state [CT].
+9:02:33 AM 
+9:02:33 AM 
+9:02:33 AM No more state to be processed.
+9:02:33 AM 
+9:02:33 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'.....
+9:03:45 AM Application ended.
+9:03:55 AM Opening 'http://www.yellowpages.com/'..............
+9:03:55 AM Application starting.....
+9:03:55 AM Navigating to 'http://www.yellowpages.com/'.....
+9:04:09 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:04:09 AM Main page detected.
+9:04:09 AM 
+9:04:09 AM 
+9:04:09 AM  Aplication ready.
+9:04:09 AM 
+9:04:11 AM 
+9:04:11 AM Erasing the result grid content....
+9:04:15 AM 
+9:04:15 AM Erasing the result grid content....
+9:04:16 AM 
+9:04:16 AM  Grid erased.
+9:04:16 AM 
+9:04:18 AM   >=======================================================
+9:04:18 AM   Processing state [CT]
+9:04:18 AM   >-------------------------------------------------------
+9:04:18 AM   
+9:04:20 AM 
+9:04:20 AM > > > processing order [1] - limousine services
+9:04:20 AM Opening 'www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'..............
+9:04:20 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'.....
+9:05:01 AM =========================================================================================
+9:05:01 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'
+9:05:01 AM =========================================================================================
+9:05:01 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'..............
+9:05:01 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services' - [Categoria]
+9:05:01 AM Analizing result page  'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'...
+9:05:01 AM  --Object 'detail_counterDetect' [Nothing] not found.
+9:05:01 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:05:01 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:05:01 AM No more pages detected.
+9:05:01 AM 
+9:05:01 AM Process completed for the present state [CT].
+9:05:01 AM 
+9:05:01 AM 
+9:05:01 AM No more state to be processed.
+9:05:01 AM 
+9:05:01 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'.....
+9:06:02 AM 
+9:06:02 AM No more state to be processed.
+9:06:02 AM 
+9:06:28 AM   >=======================================================
+9:06:28 AM   Processing state [CT]
+9:06:28 AM   >-------------------------------------------------------
+9:06:28 AM   
+9:06:31 AM 
+9:06:31 AM > > > processing order [1] - limousine services
+9:06:31 AM Opening 'www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'..............
+9:06:31 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'.....
+9:07:12 AM =========================================================================================
+9:07:12 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'
+9:07:12 AM =========================================================================================
+9:07:12 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'..............
+9:07:12 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services' - [Categoria]
+9:07:12 AM Analizing result page  'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'...
+9:07:12 AM  --Object 'detail_counterDetect' [Nothing] not found.
+9:07:12 AM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+9:07:12 AM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+9:07:12 AM No more pages detected.
+9:07:12 AM 
+9:07:12 AM Process completed for the present state [CT].
+9:07:12 AM 
+9:07:12 AM 
+9:07:12 AM No more state to be processed.
+9:07:12 AM 
+9:07:12 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'.....
+9:07:36 AM 
+9:07:36 AM No more state to be processed.
+9:07:36 AM 
+9:08:33 AM Application ended.
+9:08:36 AM Opening 'http://www.yellowpages.com/'..............
+9:08:36 AM Application starting.....
+9:08:36 AM Navigating to 'http://www.yellowpages.com/'.....
+9:08:54 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+9:08:54 AM Main page detected.
+9:08:54 AM 
+9:08:54 AM 
+9:08:54 AM  Aplication ready.
+9:08:54 AM 
+9:08:57 AM   >=======================================================
+9:08:57 AM   Processing state [CT]
+9:08:57 AM   >-------------------------------------------------------
+9:08:57 AM   
+9:08:57 AM 
+9:08:57 AM > > > processing order [1] - limousine services
+9:08:57 AM Opening 'www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'..............
+9:08:57 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'.....
+9:09:38 AM =========================================================================================
+9:09:38 AM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+9:09:38 AM =========================================================================================
+9:09:38 AM Opening 'http://www.yellowpages.com/'..............
+9:09:38 AM Navigating to 'http://www.yellowpages.com/'.....
+9:10:08 AM Load process completed for 'http://www.yellowpages.com/' - [Categoria]
+9:22:30 AM Opening 'http://www.yellowpages.com/'..............
+9:22:30 AM Application starting.....
+9:22:30 AM Navigating to 'http://www.yellowpages.com/'.....
+9:22:31 AM =========================================================================================
+9:22:31 AM Error (-2146697208) - http://www.yellowpages.com/
+9:22:31 AM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+9:22:31 AM =========================================================================================
+9:22:31 AM Retrying navegate page 'http://www.yellowpages.com/'
+9:22:36 AM Application ended.
+9:23:11 AM Opening 'http://www.yellowpages.com/'..............
+9:23:11 AM Application starting.....
+9:23:11 AM Navigating to 'http://www.yellowpages.com/'.....
+10:06:31 AM Opening 'http://www.yellowpages.com/'..............
+10:06:31 AM Application starting.....
+10:06:31 AM Navigating to 'http://www.yellowpages.com/'.....
+10:06:32 AM =========================================================================================
+10:06:32 AM Error (-2146697208) - http://www.yellowpages.com/
+10:06:32 AM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+10:06:32 AM =========================================================================================
+10:06:32 AM Retrying navegate page 'http://www.yellowpages.com/'
+10:06:36 AM Application ended.
+10:06:56 AM Opening 'http://www.yellowpages.com/'..............
+10:06:56 AM Application starting.....
+10:06:56 AM Navigating to 'http://www.yellowpages.com/'.....
+10:07:12 AM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+10:07:12 AM Main page detected.
+10:07:12 AM 
+10:07:12 AM 
+10:07:12 AM  Aplication ready.
+10:07:12 AM 
+10:07:15 AM   >=======================================================
+10:07:15 AM   Processing state [CT]
+10:07:15 AM   >-------------------------------------------------------
+10:07:15 AM   
+10:07:16 AM 
+10:07:16 AM > > > processing order [1] - limousine services
+10:07:16 AM Opening 'www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'..............
+10:07:16 AM Navigating to 'http://www.yellowpages.com/search?search_terms=limousine+services&geo_location_terms=CT'.....
+10:07:32 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services' - [Categoria]
+10:07:37 AM Analizing result page  'http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services'...
+10:08:35 AM 
+10:08:35 AM  ----- [Page 1 of 30] ------
+10:08:35 AM 
+10:08:35 AM   >>Elite Limousine|Serving the CT Area||||(203) 853-9666||
+10:08:35 AM   >>Elite Limousine|Serving the CT Area||||(203) 853-9666||
+10:08:35 AM   >>Limousines.com|Serving the CT Area||||(866) 438-5412||
+10:08:35 AM   >>Accurate Limousine Service| |Stamford|06905|CT|(203) 322-4582||acculimo@optonline.net
+10:08:35 AM   >>Rudy's Limousine|85 Old Long Ridge Rd|Stamford|06903|CT|(800) 243-7839||
+10:08:35 AM   >>O'Donnell Limousine|Serving the CT Area||||(203) 844-0132||
+10:08:35 AM   >>Prompt Charters|Serving the CT Area||||(800) 572-6408||
+10:08:35 AM New page detected 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'.
+10:08:35 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'..............
+10:08:35 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services'.....
+10:08:47 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?page=2&search_terms=limousine+services' - [Busqueda]
+10:08:47 AM Starting Analisis for ''....
+10:08:56 AM 
+10:08:58 AM  ----- [Page 2 of 30] ------
+10:08:58 AM 
+10:08:58 AM   >>Connecticut Limousine|Serving the CT Area||||(800) 320-7298||
+10:08:58 AM   >>Connecticut Limousine|Serving the CT Area||||(800) 320-7298||
+10:08:58 AM   >>Future Century Limousine|Serving the CT Area||||(203) 604-9003||info@futurelivery.com
+10:08:58 AM   >>J & M LImousine|915 Bridgeport Av|Milford|06460|CT|(866) 837-5466||
+10:08:58 AM   >>Essex Limousine Service Inc|135 Dennison Rd.|Essex|06426|CT|(860) 767-2152||
+10:08:58 AM   >>East Coast Limousines|60 South Street|Waterbury|06706|CT|(203) 437-7291||EastCoastLimos@aol.com
+10:08:58 AM   >>Ellis Limousines LLC|62 Deer La|Mrrs|06763|CT|(860) 567-1114||rhellis@optonline.com
+10:08:58 AM   >>Norwalk Taxi & Car Service| |Norwalk|06854|CT|(203) 855-1764||
+10:08:58 AM   >>Ellis Limousine LLC|62 Deer La|Mrrs|06763|CT|(860) 567-1114||rhellis@optonline.net
+10:08:58 AM   >>Leros Point To Point|Serving the CT Area||||(800) 496-3811||
+10:08:58 AM   >>A Five Star Limousine|Serving the CT Area||||(203) 248-7827||
+10:08:58 AM   >>Executive Livery LLC|249 Old Middle|Gshn|06756|CT|(860) 491-3955||
+10:08:58 AM   >>Airport Livery Car Service|Serving the CT Area||||(860) 236-6962||
+10:08:58 AM   >>Creative Transportation|30 Tunxis Ave|Bloomfield|06002|CT|(860) 243-2389||
+10:08:58 AM   >>Expressway Auto Inc|93 Meriden Rd|Waterbury|06705|CT|(203) 574-2828||
+10:08:58 AM   >>TLC Limousine Service|436 Main St.|Terryville|06786|CT|(860) 585-5466||tom@tlklimousine.net
+10:08:58 AM   >>IPM Interstate Transport|P.O. Box 626|New Milford|06776|CT|(860) 354-2732||
+10:08:58 AM   >>Airport Transportation Service|19 Crescent Street|Stamford|06906|CT|(203) 323-6008||info@airportattransportationservice.com
+10:08:58 AM   >>Windsor Limousines|Serving the CT Area||||(203) 334-7167||
+10:08:58 AM New page detected 'http://www.yellowpages.com/CT/Limousine-Service?page=3&search_terms=limousine+services'.
+10:08:58 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?page=3&search_terms=limousine+services'..............
+10:08:58 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?page=3&search_terms=limousine+services'.....
+10:09:09 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?page=3&search_terms=limousine+services' - [Busqueda]
+10:09:09 AM Starting Analisis for ''....
+10:09:11 AM 
+10:09:11 AM  ----- [Page 3 of 30] ------
+10:09:11 AM 
+10:09:11 AM   >>Park Row Limousine|Serving the CT Area||||(860) 953-8600||
+10:09:11 AM   >>Park Row Limousine|Serving the CT Area||||(860) 953-8600||
+10:09:12 AM   >>Absolute Limo|Serving the CT Area||||(860) 424-1937||absolutlimo@comcast.net
+10:09:12 AM   >>Absolute Limo|Serving the CT Area||||(860) 424-1937||absolutlimo@comcast.net
+10:09:12 AM   >>Kelley Transit Co.|Serving the CT Area||||(860) 489-9243||
+10:09:12 AM   >>Central Park Limousine|100 Lafayette Ave|White Plains|10603|NY|(800) 848-9998||info@centralparklimousine.com
+10:09:12 AM   >>Redgate Town Car Service|15 Stoneybrook Rd|Fairfield|06824|CT|(203) 259-0050||
+10:09:12 AM   >>Village Driver Service LLC|P.O. Box 715|Southbury|06488|CT|(203) 264-9013||
+10:09:12 AM   >>A Limo Company, LLC| |Clinton|06413|CT|(860) 669-0399||res@alimo-company.com
+10:09:12 AM   >>Don & Moe's Limousine LLC| |Danbury|06811|CT|(203) 792-9899||donandmoes@sbcglobal.net
+10:09:12 AM   >>VIP Limousine & Car Service|Serving the CT Area||||(203) 416-9000||
+10:09:12 AM   >>Andrea's Limousine Service| |Plainfield|06374|CT|(860) 564-3914||
+10:09:12 AM   >>Future Limousine|145 Rutland Ave|Fairfield|06825|CT|(800) 316-8662||
+10:09:12 AM   >>Silver Syar Limousine|112 quince st|Bridgeport|06606|CT|(888) 297-6733||
+10:09:12 AM   >>Silver Star Limousine| |Bridgeport|06606|CT|(866) 926-3829||
+10:09:12 AM   >>NYC LIMOUSINE + CAR SERVICE|54 51st street|New York|10033|NY|(888) 261-5961||
+10:09:12 AM   >>5 Star Limo A|334 Blake St|New Haven|06515|CT|(203) 285-3946||
+10:09:12 AM   >>5 Star Limo A|334 Blake St|New Haven|06515|CT|(203) 285-3946||
+10:09:12 AM   >>A & M Transportation|Serving the CT Area||||(203) 746-8532||
+10:09:12 AM   >>A A A Cab & Livery|1143 New Britain Ave|West Hartford|06110|CT|(860) 231-8888||
+10:09:12 AM   >>A A A Cab & Livery LLC|23 Laurel Ln|Bolton|06043|CT|(860) 645-1999||
+10:09:12 AM   >>A A A Cab & Livery LLC|23 Laurel St|Manchester|06040|CT|(860) 645-1999||
+10:09:12 AM   >>A AAA Discount Limousine|Serving the CT Area||||(860) 563-4944||
+10:09:12 AM   >>A AAA Discount Limousine Service|1866 Berlin Tnpk|Wethersfield|06109|CT|(860) 666-7999||
+10:09:12 AM   >>A Five Star Limousine Service|1505 Dunbar Hill Rd|Hamden|06514|CT|(203) 248-7827||
+10:09:12 AM   >>A Five Star Limousine Service|2405 Whitney Ave Apt 304|Hamden|06518|CT|(203) 248-7827||
+10:09:12 AM   >>A J's Limo. Service|Serving the CT Area||||(203) 323-7101||
+10:09:12 AM New page detected 'http://www.yellowpages.com/CT/Limousine-Service?page=4&search_terms=limousine+services'.
+10:09:12 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?page=4&search_terms=limousine+services'..............
+10:09:12 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?page=4&search_terms=limousine+services'.....
+10:09:20 AM Load process completed for 'http://www.yellowpages.com/CT/Limousine-Service?page=4&search_terms=limousine+services' - [Busqueda]
+10:09:20 AM Starting Analisis for ''....
+10:09:20 AM 
+10:09:20 AM  ----- [Page 4 of 30] ------
+10:09:20 AM 
+10:09:20 AM   >>A Limo Company LLC|Serving the CT Area||||(203) 606-2355||
+10:09:20 AM   >>A Limo Company LLC|Serving the CT Area||||(203) 606-2355||
+10:09:20 AM   >>A Plus Transportation|236 Park Rd|West Hartford|06119|CT|(860) 236-8999||
+10:09:20 AM   >>A Premier Limousine| |New Haven|06515|CT|(203) 387-3366||
+10:09:20 AM   >>A Premier Limousine| |Glastonbury|06033|CT|(203) 387-3366||
+10:09:20 AM   >>A Premier Limousine|126 Kreiger Ln|Glastonbury|06033|CT|(860) 659-8600||
+10:09:20 AM   >>A Premier Limousine|80 Cumberland Rd|West Hartford|06119|CT|(860) 522-5466||
+10:09:20 AM   >>A T Limousine| |Stamford|06901|CT|(888) 358-3227||
+10:09:20 AM   >>A Touch of Class Limousine Service| |New London|06320|CT|(860) 440-3898||
+10:09:20 AM   >>A Touch of Class Limousine Service|850 Hartford Tpke|Waterford|06385|CT|(860) 439-0198||
+10:09:20 AM   >>AAAA Discount Limousine Service|1866 Berlin Tpke|Wethersfield|06109|CT|(860) 666-7999||
+10:09:20 AM   >>Abbey Rd. Transportation|Serving the CT Area||||(203) 404-7157||
+10:09:20 AM   >>Abbey Rd. Transportation|Serving the CT Area||||(860) 646-1913||
+10:09:20 AM   >>ABC & Cosmopolitan Limousines|Serving the CT Area||||(800) 952-0083||
+10:09:20 AM   >>ABC and Cosmopolitan Limousine|PO Box 668|Northford|06472|CT|(800) 952-0083||
+10:09:20 AM   >>Absolut Limo| |Hartford|06101|CT|(860) 424-1937||
+10:09:20 AM   >>Absolut Limo L.L.C.|15 Evergreen Trl|Farmington|06032|CT|(860) 424-1937||
+10:09:20 AM   >>Absolute Limousine LLC|2279 High Ridge Rd|Stamford|06903|CT|(203) 461-8484||
+10:09:20 AM   >>Accent Limousines|60 Lancaster Rd Apt 12|Wethersfield|06109|CT|(860) 529-0400||
+10:09:20 AM   >>Accent Limousines|82 Dudley Rd|Wethersfield|06109|CT|(860) 529-0400||
+10:09:20 AM   >>Accurate Limousine Services|17 Ayres Dr|Stamford|06905|CT|(203) 322-4582||
+10:09:20 AM   >>Accurate Limousine Services|PO Box 16787|Stamford|06905|CT|(203) 322-4582||
+10:09:20 AM   >>Advance Limousine Service Inc.|1074 Hope St|Stamford|06907|CT|(203) 363-0055||
+10:09:20 AM   >>Advance Luxury Limo.|261 Millard St|Fairfield|06824|CT|(203) 743-6022||
+10:09:20 AM   >>Advance Luxury Limo|PO Box 4242|Danbury|06813|CT|(203) 744-3340||
+10:09:20 AM New page detected 'http://www.yellowpages.com/CT/Limousine-Service?page=5&search_terms=limousine+services'.
+10:09:20 AM Opening 'http://www.yellowpages.com/CT/Limousine-Service?page=5&search_terms=limousine+services'..............
+10:09:20 AM Navigating to 'http://www.yellowpages.com/CT/Limousine-Service?page=5&search_terms=limousine+services'.....
+4:33:55 PM 
+4:33:55 PM      > car transporters
+4:33:55 PM 
+4:33:55 PM 
+4:33:55 PM Navigating to 'http://www.yellowpages.com/'.....
+4:33:56 PM Opening 'http://www.yellowpages.com/'..............
+4:33:56 PM Application starting.....
+4:34:36 PM =========================================================================================
+4:34:36 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+4:34:36 PM =========================================================================================
+4:34:36 PM Opening 'http://www.yellowpages.com/'..............
+4:34:36 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+4:34:36 PM Main page detected.
+4:34:36 PM 
+4:34:36 PM  Last url restored http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services
+4:34:36 PM  Last category restored car transporters
+4:34:36 PM 
+4:34:36 PM ---------------------------------------------------------------------------------
+4:34:36 PM 
+4:34:36 PM  All information about previous session was restored and it is ready to continue.
+4:34:36 PM 
+4:34:36 PM ---------------------------------------------------------------------------------
+4:34:36 PM 
+4:34:36 PM 
+4:34:36 PM 
+4:34:36 PM  Aplication ready.
+4:34:36 PM 
+4:34:36 PM Navigating to 'http://www.yellowpages.com/'.....
+4:35:44 PM Application ended.
+1:22:31 PM 
+1:22:31 PM      > car transporters
+1:22:31 PM 
+1:22:31 PM 
+1:22:31 PM Navigating to 'http://www.yellowpages.com/'.....
+1:22:33 PM Opening 'http://www.yellowpages.com/'..............
+1:22:33 PM Application starting.....
+1:23:02 PM 
+1:23:02 PM Erasing the result grid content....
+1:23:03 PM Error [-2147010889] in procedure eraseResults - Formulario 'frmMain'
+
+Generated by: Provider
+Description : The requested lookup key was not found in any active activation context.
+
+1:23:12 PM =========================================================================================
+1:23:12 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+1:23:12 PM =========================================================================================
+1:23:12 PM Opening 'http://www.yellowpages.com/'..............
+1:23:12 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+1:23:12 PM Main page detected.
+1:23:12 PM 
+1:23:12 PM  Last url restored http://www.yellowpages.com/CT/Limousine-Service?search_terms=limousine+services
+1:23:12 PM  Last category restored car transporters
+1:23:12 PM 
+1:23:12 PM ---------------------------------------------------------------------------------
+1:23:12 PM 
+1:23:12 PM  All information about previous session was restored and it is ready to continue.
+1:23:12 PM 
+1:23:12 PM ---------------------------------------------------------------------------------
+1:23:12 PM 
+1:23:12 PM 
+1:23:12 PM 
+1:23:12 PM  Aplication ready.
+1:23:12 PM 
+1:23:12 PM Navigating to 'http://www.yellowpages.com/'.....
+1:23:22 PM   >=======================================================
+1:23:22 PM   Processing state [CT]
+1:23:22 PM   >-------------------------------------------------------
+1:23:22 PM   
+1:23:22 PM 
+1:23:22 PM > > > processing order [1] - salon
+1:23:22 PM Opening 'www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'..............
+1:23:22 PM Navigating to 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'.....
+1:23:44 PM =========================================================================================
+1:23:44 PM Error (500) - http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT
+1:23:44 PM Unespecified error message.
+1:23:44 PM =========================================================================================
+1:23:44 PM Retrying navegate page 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'
+1:23:56 PM Opening 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'..............
+1:23:56 PM Navigating to 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'.....
+1:24:15 PM =========================================================================================
+1:24:15 PM Error (500) - http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT
+1:24:15 PM Unespecified error message.
+1:24:15 PM =========================================================================================
+1:24:15 PM Retrying navegate page 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'
+1:24:27 PM Opening 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'..............
+1:24:27 PM Navigating to 'http://www.yellowpages.com/search?search_terms=salon&geo_location_terms=CT'.....
+1:24:47 PM Load process completed for 'http://www.yellowpages.com/categories/CT/salon' - [Categoria]
+1:24:47 PM Analizing result page  'http://www.yellowpages.com/categories/CT/salon'...
+1:24:47 PM Error: 'listings' class not found.
+1:24:47 PM  --Object ''Toolbar-btn' object not found' [Nothing] not found.
+1:24:47 PM Error [0] in procedure detectarSiguientePagina - Formulario 'frmMain'
+
+Generated by: 
+Description : 
+
+1:24:47 PM No more pages detected.
+1:24:47 PM 
+1:24:47 PM Process completed for the present state [CT].
+1:24:47 PM 
+1:24:47 PM 
+1:24:47 PM No more state to be processed.
+1:24:47 PM 
+1:26:59 PM =========================================================================================
+1:26:59 PM Error (-2146697208) - http://view.atdmt.com/MMI/iview/160904515/direct/01?click=http://ads.traffiq.com/adserver/%5c?1e1b1k1h1b1j0l1o1h1c0z0p0p0m0o0l1n4G0z0n0q0t0q0l1r1f1m0z0m0m0n0o4S0u0u0v0p0u0r0n0n0s4g0s0r0v4M1s1w4Y4K0s1c1b1d0t0n0j0m0r4b0j0q1Z1c0q0j0v0m0p1e0j1e0u0o0t1a0s1a1b0r5A0p0l11494B1j0z1g1s1s1o0w0l4N1Z1r4z1m1s1q1Z1k0k1x1d1k1k1n1v1o1Z1f1d1r0k1b1n1l0l1K1d5m1F1d1c1h1Z0l591r0l5V4C1X1k1w0k6E0l5p5r5t5v5x5z61631b1Z1s1d1f1n1q1x1X1u5m4G6Y1h1n1m0l1E0p0r0l4l0q4f5D0n51641h1f5Z0n0l1R5q6S5y0l1L1k1d1d1o1x1r1X4m0m1X1L1s6Y5y1X0m0t7O0v7R787A7C7E7G0s7I7K7M7F7P7R7R0k5Z1l1k0l0q1e0p6w0u0s0p0s0q4K0t0m4n0s4T0p0q0r0q4R850r4p0u11/?
+1:26:59 PM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+1:26:59 PM =========================================================================================
+1:26:59 PM Retrying navegate page 'http://view.atdmt.com/MMI/iview/160904515/direct/01?click=http://ads.traffiq.com/adserver/%5c?1e1b1k1h1b1j0l1o1h1c0z0p0p0m0o0l1n4G0z0n0q0t0q0l1r1f1m0z0m0m0n0o4S0u0u0v0p0u0r0n0n0s4g0s0r0v4M1s1w4Y4K0s1c1b1d0t0n0j0m0r4b0j0q1Z1c0q0j0v0m0p1e0j1e0u0o0t1a0s1a1b0r5A0p0l11494B1j0z1g1s1s1o0w0l4N1Z1r4z1m1s1q1Z1k0k1x1d1k1k1n1v1o1Z1f1d1r0k1b1n1l0l1K1d5m1F1d1c1h1Z0l591r0l5V4C1X1k1w0k6E0l5p5r5t5v5x5z61631b1Z1s1d1f1n1q1x1X1u5m4G6Y1h1n1m0l1E0p0r0l4l0q4f5D0n51641h1f5Z0n0l1R5q6S5y0l1L1k1d1d1o1x1r1X4m0m1X1L1s6Y5y1X0m0t7O0v7R787A7C7E7G0s7I7K7M7F7P7R7R0k5Z1l1k0l0q1e0p6w0u0s0p0s0q4K0t0m4n0s4T0p0q0r0q4R850r4p0u11/?'
+1:27:11 PM Opening 'http://view.atdmt.com/MMI/iview/160904515/direct/01?click=http://ads.traffiq.com/adserver/%5c?1e1b1k1h1b1j0l1o1h1c0z0p0p0m0o0l1n4G0z0n0q0t0q0l1r1f1m0z0m0m0n0o4S0u0u0v0p0u0r0n0n0s4g0s0r0v4M1s1w4Y4K0s1c1b1d0t0n0j0m0r4b0j0q1Z1c0q0j0v0m0p1e0j1e0u0o0t1a0s1a1b0r5A0p0l11494B1j0z1g1s1s1o0w0l4N1Z1r4z1m1s1q1Z1k0k1x1d1k1k1n1v1o1Z1f1d1r0k1b1n1l0l1K1d5m1F1d1c1h1Z0l591r0l5V4C1X1k1w0k6E0l5p5r5t5v5x5z61631b1Z1s1d1f1n1q1x1X1u5m4G6Y1h1n1m0l1E0p0r0l4l0q4f5D0n51641h1f5Z0n0l1R5q6S5y0l1L1k1d1d1o1x1r1X4m0m1X1L1s6Y5y1X0m0t7O0v7R787A7C7E7G0s7I7K7M7F7P7R7R0k5Z1l1k0l0q1e0p6w0u0s0p0s0q4K0t0m4n0s4T0p0q0r0q4R850r4p0u11/?'..............
+1:27:52 PM =========================================================================================
+1:27:52 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/categories/CT/salon'
+1:27:52 PM =========================================================================================
+1:27:52 PM Opening 'http://www.yellowpages.com/categories/CT/salon'..............
+1:27:52 PM Navigating to 'http://www.yellowpages.com/categories/CT/salon'.....
+1:28:18 PM =========================================================================================
+1:28:18 PM Error (500) - http://www.yellowpages.com/categories/CT/salon
+1:28:18 PM Unespecified error message.
+1:28:18 PM =========================================================================================
+1:28:18 PM Retrying navegate page 'http://www.yellowpages.com/categories/CT/salon'
+1:28:30 PM Opening 'http://www.yellowpages.com/categories/CT/salon'..............
+1:28:30 PM Navigating to 'http://www.yellowpages.com/categories/CT/salon'.....
+1:28:34 PM Application ended.
+1:30:41 PM Navigating to 'http://www.yellowpages.com/'.....
+1:30:42 PM Opening 'http://www.yellowpages.com/'..............
+1:30:42 PM Application starting.....
+1:31:22 PM =========================================================================================
+1:31:22 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page ''
+1:31:22 PM =========================================================================================
+1:31:22 PM Navigating to 'res://ieframe.dll/navcancl.htm#http://www.yellowpages.com/'.....
+1:31:23 PM Opening ''..............
+1:31:23 PM Blocking url 'http:///'.....
+1:31:23 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+1:31:23 PM  --Object 'homePageObj' [Nothing] not found.
+1:31:23 PM Main page missing or invalid.
+1:31:23 PM 
+1:31:23 PM #####################################################################################################
+1:31:23 PM The loaded home page page is invalid.
+1:31:23 PM Please verify if the site is not down at this moment.
+1:31:23 PM #####################################################################################################
+1:31:23 PM 
+1:31:29 PM Application ended.
+1:32:36 PM Navigating to 'http://www.yellowpages.com/'.....
+1:32:37 PM Opening 'http://www.yellowpages.com/'..............
+1:32:37 PM Application starting.....
+1:33:17 PM =========================================================================================
+1:33:17 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+1:33:17 PM =========================================================================================
+1:33:17 PM Opening 'http://www.yellowpages.com/'..............
+1:33:17 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+1:33:17 PM Main page detected.
+1:33:17 PM 
+1:33:17 PM 
+1:33:17 PM  Aplication ready.
+1:33:17 PM 
+1:33:17 PM Navigating to 'http://www.yellowpages.com/'.....
+1:33:53 PM Application ended.
+1:35:33 PM Navigating to 'http://www.yellowpages.com/'.....
+1:35:34 PM Opening 'http://www.yellowpages.com/'..............
+1:35:34 PM Application starting.....
+1:35:34 PM =========================================================================================
+1:35:34 PM Error (-2146697208) - http://www.yellowpages.com/
+1:35:34 PM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+1:35:34 PM =========================================================================================
+1:35:34 PM Retrying navegate page 'http://www.yellowpages.com/'
+1:35:34 PM Navigating to 'res://ieframe.dll/navcancl.htm#http://www.yellowpages.com/'.....
+1:35:35 PM Load process completed for 'http://www.yellowpages.com/' - [pagInicial]
+1:35:35 PM  --Object 'homePageObj' [Nothing] not found.
+1:35:35 PM Main page missing or invalid.
+1:35:35 PM 
+1:35:35 PM #####################################################################################################
+1:35:35 PM The loaded home page page is invalid.
+1:35:35 PM Please verify if the site is not down at this moment.
+1:35:35 PM #####################################################################################################
+1:35:35 PM 
+1:35:47 PM Opening 'http://www.yellowpages.com/'..............
+1:35:47 PM Navigating to 'http://www.yellowpages.com/'.....
+1:36:12 PM Opening 'http://www.yellowpages.com/'..............
+1:36:12 PM Navigating to 'http://www.yellowpages.com/'.....
+1:36:25 PM =========================================================================================
+1:36:25 PM Error (-2146697208) - http://www.yellowpages.com/
+1:36:25 PM INET_E_DOWNLOAD_FAILURE (0x800C0008L) - The download has failed (the connection was interrupted).
+1:36:25 PM =========================================================================================
+1:36:25 PM Retrying navegate page 'http://www.yellowpages.com/'
+1:36:37 PM Opening 'http://www.yellowpages.com/'..............
+1:37:18 PM =========================================================================================
+1:37:18 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+1:37:18 PM =========================================================================================
+1:37:18 PM Opening 'http://www.yellowpages.com/'..............
+1:37:18 PM Navigating to 'http://www.yellowpages.com/'.....
+1:37:24 PM Application ended.
+1:37:54 PM Navigating to 'http://www.yellowpages.com/'.....
+1:37:55 PM Opening 'http://www.yellowpages.com/'..............
+1:37:55 PM Application starting.....
+1:38:35 PM =========================================================================================
+1:38:35 PM --- TIMEOUT WAITING RESPONSE ----- Retrying navegate page 'http://www.yellowpages.com/'
+1:38:35 PM =========================================================================================
+1:38:35 PM Opening 'http://www.yellowpages.com/'..............
+1:38:35 PM Navigating to 'http://www.yellowpages.com/'.....
+1:39:13 PM Application ended.
+1:43:33 PM Blocking url 'http:///'.....
+1:43:33 PM Load process completed for '' - []
+1:43:33 PM Pending abort request detected.
+1:43:34 PM Navigating to 'http://www.yellowpages.com/'.....
+1:43:35 PM Opening 'http://www.yellowpages.com/'..............
+1:43:35 PM Application starting.....
+1:43:36 PM Application ended.

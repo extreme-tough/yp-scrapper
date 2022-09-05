@@ -1,0 +1,45 @@
+Chinese
+Fast Food
+Italian
+Japanese
+Mexican
+Pizza
+Seafood
+Take Out
+African
+American
+Barbecue
+Breakfast
+Brunch
+Buffet
+Caribbean
+Chicken
+Coffee
+Espresso
+Continental
+Creole
+Cajun
+Dessert
+Family Style
+Fine Dining
+Fondue
+French
+German
+Greek
+Health Food
+Home Cooking
+Indian
+Irish
+Korean
+Kosher
+Latin American
+Mediterranean
+Middle Eastern
+Pan Asian
+Delivery
+Russian
+Soul Food
+Spanish
+Thai
+Vegetarian
+Vietnamese
